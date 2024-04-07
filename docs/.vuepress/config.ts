@@ -5,6 +5,7 @@ import {resolve} from "path"
 
 export default defineConfig4CustomTheme<ThemeConfig>((ctx) => ({
   theme: "vt",
+  base: "eldenringdata",
   title: "EldenRing Document",
    configureWebpack: {
     resolve: {
