@@ -1,2 +1,1 @@
-# eldenringdata
-艾尔登法环数据存档
+# trapdoor wiki

@@ -1,0 +1,2822 @@
+{
+    "10": {
+        "zhocn": {
+            "name": "无战技",
+            "caption": "战技：无战技\n\n武器没有战技。\n如果另一边的武器具备战技，\n会使用那一边的战技。"
+        },
+        "jpnjp": {
+            "name": "戦技なし",
+            "caption": "戦技なし\n\nこの武器は戦技を持たない\nもう一方の武器に戦技があれば\n常にそれが使用される\n"
+        },
+        "engus": {
+            "name": "No Skill",
+            "caption": "No skill.\n\nThis armament has no skill.\nIf the armament in the other hand has a skill, that skill will be used instead."
+        },
+        "icon_id": "00000"
+    },
+    "100": {
+        "zhocn": {
+            "name": "狮子斩",
+            "caption": "战技：狮子斩\n\n与拉塔恩将军并肩作战的\n红狮子军队所使用的战技。\n能朝前方跳跃，一边旋身一边以武器敲击。"
+        },
+        "jpnjp": {
+            "name": "獅子斬り",
+            "caption": "戦技「獅子斬り」\n\n将軍ラダーンと共に戦った、赤獅子の軍勢の戦技\n前方に跳躍し、回転しながら武器を叩き付ける\n"
+        },
+        "engus": {
+            "name": "Lion's Claw",
+            "caption": "Skill: Lion's Claw\n\nSkill of the Redmanes, who fought alongside General Radahn.\nSomersault forwards, striking foes with armament."
+        },
+        "icon_id": "21000"
+    },
+    "101": {
+        "zhocn": {
+            "name": "贯穿",
+            "caption": "战技：贯穿\n\n突刺武器对付持盾敌人时的战技。\n蓄力之后，大幅度向前跨出\n使出浑身一刺，从正面突破防御。"
+        },
+        "jpnjp": {
+            "name": "貫通突き",
+            "caption": "戦技「貫通突き」\n\n刺突武器で盾に対するための戦技\n力を溜め、大きく踏み込む強烈な突きは\nガードを正面から貫く\n"
+        },
+        "engus": {
+            "name": "Impaling Thrust",
+            "caption": "Skill: Impaling Thrust\n\nSkill that lets piercing armaments overcome enemy shields. Build power, then lunge forward for a strong thrust that pierces an enemy's guard."
+        },
+        "icon_id": "00000"
+    },
+    "102": {
+        "zhocn": {
+            "name": "突刺",
+            "caption": "战技：突刺\n\n“血指猎人”尤拉的战技。\n举起武器与地面平行，再一口气贯穿敌人。\n此战技无法用防御挡下。"
+        },
+        "jpnjp": {
+            "name": "牙突き",
+            "caption": "戦技「牙突き」\n\n血の指の狩人、ユラの戦技\n刃を水平に掲げ、一気に刺し貫く\nこれをガードすることはできない\n"
+        },
+        "engus": {
+            "name": "Piercing Fang",
+            "caption": "Skill: Piercing Fang\n\nSkill used by Yura, the Bloody Finger Hunter.\nStarting with the blade held horizontally, make a powerful thrust that cannot be blocked."
+        },
+        "icon_id": "00000"
+    },
+    "103": {
+        "zhocn": {
+            "name": "回旋斩",
+            "caption": "战技：回旋斩\n\n拥有高灵巧的剑士们使用的战技。\n能大幅旋转身体，砍向敌人。\n再次发动能使出追击。"
+        },
+        "jpnjp": {
+            "name": "回転斬り",
+            "caption": "戦技「回転斬り」\n\n技量に優れた剣士たちの戦技\n大きく体を回転させて敵を斬りつける\nまた、追加入力で追撃に繋げられる\n"
+        },
+        "engus": {
+            "name": "Spinning Slash",
+            "caption": "Skill: Spinning Slash\n\nSkill favored by dexterous warriors.\nSlash foes as your body spins. Additional input allows for a follow-up attack."
+        },
+        "icon_id": "00000"
+    },
+    "105": {
+        "zhocn": {
+            "name": "突击",
+            "caption": "战技：突击\n\n武器及腰摆出架式，再一口气向前冲的战技。\n前进到极限后能使出突刺攻击。\n持续发动能增加移动距离。"
+        },
+        "jpnjp": {
+            "name": "突撃",
+            "caption": "戦技「突撃」\n\n腰だめに武器を構え、一気に前進する戦技\nその勢いのまま、最後に突きを放つ\n長押しで前進距離を伸ばすことができる\n"
+        },
+        "engus": {
+            "name": "Charge Forth",
+            "caption": "Skill: Charge Forth\n\nQuickly charge forward with the armament at the hip, carrying the momentum into a thrust.\nHold to cover a greater distance."
+        },
+        "icon_id": "00000"
+    },
+    "106": {
+        "zhocn": {
+            "name": "箭步（上砍）",
+            "caption": "战技：箭步（上砍）\n\n举起武器摆出架式，稳住姿势压低身形，\n瞬间提升强韧度的战技。\n发动后接着使出重攻击，能上砍攻击。"
+        },
+        "jpnjp": {
+            "name": "踏み込み（斬り上げ）",
+            "caption": "戦技「踏み込み（斬り上げ）」\n\n武器を構え、体を固めて低く踏み込み\n瞬間的に、強靭度を高める戦技\nまた、強攻撃で斬り上げに繋げられる\n"
+        },
+        "engus": {
+            "name": "Stamp (Upward Cut)",
+            "caption": "Skill: Stamp (Upward Cut)\n\nBrace armament and step into a low stance that prevents recoil from most enemy attacks.\nFollow up with a strong attack for an upward strike."
+        },
+        "icon_id": "00000"
+    },
+    "107": {
+        "zhocn": {
+            "name": "箭步（回旋斩）",
+            "caption": "战技：箭步（回旋斩）\n\n举起武器摆出架式，稳住姿势压低身形，\n瞬间提升强韧度的战技。\n发动后接着使出重攻击，能回旋斩。"
+        },
+        "jpnjp": {
+            "name": "踏み込み（回転薙ぎ）",
+            "caption": "戦技「踏み込み（回転薙ぎ）」\n\n武器を構え、体を固めて低く踏み込み\n瞬間的に、強靭度を高める戦技\nまた、強攻撃で回転薙ぎに繋げられる\n"
+        },
+        "engus": {
+            "name": "Stamp (Sweep)",
+            "caption": "Skill: Stamp (Sweep)\n\nBrace armament and step into a low stance that prevents recoil from most enemy attacks.\nFollow up with a strong attack for a sweeping strike."
+        },
+        "icon_id": "00000"
+    },
+    "108": {
+        "zhocn": {
+            "name": "鲜血征收",
+            "caption": "战技：鲜血征收\n\n鲜血君王分享的力量，血盟战技之一。\n旋身之后，使出多重的突刺连击。\n能夺取受攻击对象的鲜血与血量。"
+        },
+        "jpnjp": {
+            "name": "血の徴収",
+            "caption": "戦技「血の徴収」\n\n血の君主の分け与える力、血盟戦技のひとつ\n回転から、一気に連撃の突きを繰り出し\n攻撃した相手から、血と共にＨＰを奪う\n"
+        },
+        "engus": {
+            "name": "Blood Tax",
+            "caption": "Skill: Blood Tax\n\nBlood Oath skill granted by the Lord of Blood.\nTwist to build power, then unleash a flurry of thrusts that rob the target of both their blood and their HP."
+        },
+        "icon_id": "00000"
+    },
+    "109": {
+        "zhocn": {
+            "name": "连击",
+            "caption": "战技：连击\n\n旋身之后，使出连续突刺的战技。"
+        },
+        "jpnjp": {
+            "name": "連続突き",
+            "caption": "戦技「連続突き」\n\n体を回転させ、そこから一気に\n連撃の突きを繰り出す戦技\n"
+        },
+        "engus": {
+            "name": "Repeating Thrust",
+            "caption": "Skill: Repeating Thrust\n\nTwist to build power, then unleash a flurry of thrusts."
+        },
+        "icon_id": "00000"
+    },
+    "110": {
+        "zhocn": {
+            "name": "盲击",
+            "caption": "战技：盲击\n\n不间断、任意挥动武器的战技。\n持续发动的期间能一直攻击，\n接着使出轻攻击或重攻击，能追加攻击。"
+        },
+        "jpnjp": {
+            "name": "乱撃",
+            "caption": "戦技「乱撃」\n\n無造作に武器を振り続ける戦技\n長押している間は、ずっと攻撃を継続し\n通常攻撃および強攻撃で追撃に繋げられる\n"
+        },
+        "engus": {
+            "name": "Wild Strikes",
+            "caption": "Skill: Wild Strikes\n\nSwing armament with wild abandon.\nHold to continue swinging. Can be followed up with a normal or strong attack."
+        },
+        "icon_id": "21030"
+    },
+    "111": {
+        "zhocn": {
+            "name": "回旋击",
+            "caption": "战技：回旋击\n\n大幅度旋转长柄武器的战技。\n持续发动的期间能一直攻击，\n接着使出轻攻击或重攻击，能追加攻击。\n旋转武器时，能拨开箭等等的远攻道具。"
+        },
+        "jpnjp": {
+            "name": "回転撃",
+            "caption": "戦技「回転撃」\n\n長柄の武器を、大きく回し続ける戦技\n長押している間は、ずっと攻撃を継続し\n通常攻撃および強攻撃で追撃に繋げられる\nまた回転中は、矢などの飛び道具を逸らせる\n"
+        },
+        "engus": {
+            "name": "Spinning Strikes",
+            "caption": "Skill: Spinning Strikes\n\nPolearm skill that performs continuous spinning attacks. Hold to continue the attack. Can be followed up with a normal or strong attack. Nullifies projectiles such as arrows while spinning."
+        },
+        "icon_id": "00000"
+    },
+    "112": {
+        "zhocn": {
+            "name": "二连斩",
+            "caption": "战技：二连斩\n\n杰出剑士的战技。\n压低身形后，使出连续的交错斩击。\n再次发动能使出最多两次的追击。"
+        },
+        "jpnjp": {
+            "name": "二連斬り",
+            "caption": "戦技「二連斬り」\n\n卓越した剣士の戦技\n低い構えから、交差する斬撃を繰り出す\n追加入力で、二度まで追撃に繋げられる\n"
+        },
+        "engus": {
+            "name": "Double Slash",
+            "caption": "Skill: Double Slash\n\nSkill of superior swordsmen.\nPerform a crossing slash attack from a low stance.\nRepeated inputs allow for up to two follow-up attacks."
+        },
+        "icon_id": "00000"
+    },
+    "113": {
+        "zhocn": {
+            "name": "主教冲锋",
+            "caption": "战技：主教冲锋\n\n将武器敲向地面，形成猛烈燃烧的火焰，\n再顺势向前推进的战技。\n持续发动的期间能一直向前推进。"
+        },
+        "jpnjp": {
+            "name": "司教の突進",
+            "caption": "戦技「司教の突進」\n\n武器を地面に叩きつけ、激しい炎を生じ\nそのまま突進していく戦技\n長押ししている間は、止まることがない\n"
+        },
+        "engus": {
+            "name": "Prelate's Charge",
+            "caption": "Skill: Prelate's Charge\n\nSlam armament into the ground to create a surge of flames, then charge in.\nHold to continue the charge."
+        },
+        "icon_id": "00000"
+    },
+    "114": {
+        "zhocn": {
+            "name": "居合",
+            "caption": "战技：居合\n\n芦苇之地的剑客继承而来的战技。\n收刀入腰间刀鞘，摆出架式后静止不动，\n接着使出轻攻击或重攻击，能高速斩击。"
+        },
+        "jpnjp": {
+            "name": "居合",
+            "caption": "戦技「居合」\n\n葦の地の剣客に伝わる戦技\n刀身を鞘に収め、腰だめに静かに構え\n通常攻撃および強攻撃で、高速の斬撃に繋げる\n"
+        },
+        "engus": {
+            "name": "Unsheathe",
+            "caption": "Skill: Unsheathe\n\nSkill of swordsmen from the Land of Reeds.\nSheathe blade, holding it at the hip in a composed stance.\nFollow up with a normal or strong attack to perform a swift slash attack."
+        },
+        "icon_id": "00000"
+    },
+    "115": {
+        "zhocn": {
+            "name": "准备架式",
+            "caption": "战技：准备架式\n\n举起剑与地面平行，接着使出攻击的战技。\n轻攻击能使出由下而上，突破防御的斩击。\n重攻击能向前冲刺、突刺攻击。"
+        },
+        "jpnjp": {
+            "name": "構え",
+            "caption": "戦技「構え」\n\n剣を水平に構え、攻撃に繋げる戦技\n通常攻撃で、ガードを崩す斬り上げ\n強攻撃で走り込む突きに派生する\n"
+        },
+        "engus": {
+            "name": "Square Off",
+            "caption": "Skill: Square Off\n\nThis skill starts with the sword held level.\nFollow up with a normal attack to slash upwards through enemy's guard, or a strong attack to perform a running thrust."
+        },
+        "icon_id": "00000"
+    },
+    "116": {
+        "zhocn": {
+            "name": "狩猎巨人",
+            "caption": "战技：狩猎巨人\n\n挑战体型比自己大的敌人而有的战技。\n压低身形稳住姿势，向前踏出，\n接着顺势由下而上突刺敌人。"
+        },
+        "jpnjp": {
+            "name": "巨人狩り",
+            "caption": "戦技「巨人狩り」\n\n自らよりも大きな敵に、挑むための戦技\n低い姿勢から、体を固めて一歩踏み込み\nそのまま一気に、下から敵を突き上げる\n"
+        },
+        "engus": {
+            "name": "Giant Hunt",
+            "caption": "Skill: Giant Hunt\n\nSkill developed for confronting gigantic foes.\nStep forward from a low stance, carrying the momentum into a sudden upward thrust."
+        },
+        "icon_id": "21062"
+    },
+    "117": {
+        "zhocn": {
+            "name": "火把攻击",
+            "caption": "战技：火把攻击\n\n将火把的火焰往前突刺，燃烧敌人的战技。\n对不耐火的敌人很有效。"
+        },
+        "jpnjp": {
+            "name": "松明攻撃",
+            "caption": "戦技「松明攻撃」\n\n松明の炎を前方に突き出し、敵を焼く戦技\n火に弱い敵には有効である\n"
+        },
+        "engus": {
+            "name": "Torch Attack",
+            "caption": "Skill: Torch Attack\n\nThrust torch forward to set foes ablaze.\nThis skill is especially effective against foes who are weak to fire."
+        },
+        "icon_id": "21062"
+    },
+    "118": {
+        "zhocn": {
+            "name": "罗蕾塔的斩击",
+            "caption": "战技：罗蕾塔的斩击\n\n禁卫骑士罗蕾塔的战技。\n向前跳的同时，将辉石的魔力灌入剑身，\n再加快速度瞬间斩下。"
+        },
+        "jpnjp": {
+            "name": "ローレッタの斬撃",
+            "caption": "戦技「ローレッタの斬撃」\n\n親衛騎士ローレッタの戦技\n前方に跳躍し、刃に輝石の魔力を宿し\n加速して一気に斬り下ろす\n"
+        },
+        "engus": {
+            "name": "Loretta's Slash",
+            "caption": "Skill: Loretta's Slash\n\nSkill of Loretta the Royal Knight.\nLeap forward, imbuing the blade with glintstone, then descend, accelerating into a sweeping slash."
+        },
+        "icon_id": "21062"
+    },
+    "119": {
+        "zhocn": {
+            "name": "双吻毒蛾",
+            "caption": "战技：双吻毒蛾\n\n在剑刃涂上强效毒，砍向敌人的战技。\n对上陷入中毒状态的敌人，\n如果成功使出追击，能一口气给予大伤害。"
+        },
+        "jpnjp": {
+            "name": "毒蛾は二度舞う",
+            "caption": "戦技「毒蛾は二度舞う」\n\n刃に強毒を纏わせ、斬りつける戦技\n既に毒状態の敵に追撃が成功すれば\n一気に大ダメージを与える\n"
+        },
+        "engus": {
+            "name": "Poison Moth Flight",
+            "caption": "Skill: Poison Moth Flight\n\nSlash with a poison-infused blade.\nIf the follow-up strike lands on a poisoned foe, it will deal significant damage."
+        },
+        "icon_id": "00000"
+    },
+    "120": {
+        "zhocn": {
+            "name": "转啊转",
+            "caption": "战技：转啊转\n\n卡利亚公主们防身用的战技。\n将武器浮在自身前方高速旋转，\n触碰到的人物会受到连击。"
+        },
+        "jpnjp": {
+            "name": "回れ回れ",
+            "caption": "戦技「回れ回れ」\n\nカーリアの王女たちの護身の戦技\n武器を前方に浮かせ、高速に回転させる\nそれは、触れる者に連撃をなす\n"
+        },
+        "engus": {
+            "name": "Spinning Weapon",
+            "caption": "Skill: Spinning Weapon\n\nDefensive skill employed by Carian princesses.\nLifts armament into mid-air, then makes it spin violently. Those it touches will suffer successive attacks."
+        },
+        "icon_id": "21062"
+    },
+    "122": {
+        "zhocn": {
+            "name": "风暴袭击",
+            "caption": "战技：风暴袭击\n\n史东薇尔的风暴战技之一。\n缠绕着风暴向前跳，将武器向下刺。\n突刺攻击后也会形成风暴。"
+        },
+        "jpnjp": {
+            "name": "嵐の襲撃",
+            "caption": "戦技「嵐の襲撃」\n\nストームヴィルの嵐の戦技のひとつ\n嵐と共に前方に跳躍し、武器を突き下ろし\nその攻撃もまた、嵐を発生させる\n"
+        },
+        "engus": {
+            "name": "Storm Assault",
+            "caption": "Skill: Storm Assault\n\nOne of the skills that channel the tempests of Stormveil.\nLeap forward through surrounding storm winds and thrust armament downward. The attack will produce more storm winds at the point of impact."
+        },
+        "icon_id": "21062"
+    },
+    "123": {
+        "zhocn": {
+            "name": "唤起风暴",
+            "caption": "战技：唤起风暴\n\n史东薇尔的风暴战技之一。\n能挥舞武器，在自身周围唤起风暴。\n再次发动能使出最多两次的追击。"
+        },
+        "jpnjp": {
+            "name": "嵐呼び",
+            "caption": "戦技「嵐呼び」\n\nストームヴィルの嵐の戦技のひとつ\n武器を振り回し、自らの周囲に嵐を呼ぶ\n追加入力で、二度まで追撃に繋げられる\n"
+        },
+        "engus": {
+            "name": "Stormcaller",
+            "caption": "Skill: Stormcaller\n\nOne of the skills that channel the tempests of Stormveil. Spin armament to create surrounding storm winds. Repeated inputs allow for up to two follow-up attacks."
+        },
+        "icon_id": "00000"
+    },
+    "124": {
+        "zhocn": {
+            "name": "剑舞",
+            "caption": "战技：剑舞\n\n一边迅速向前推进，\n一边使出连续旋身上砍的战技。\n再次发动能使出迅速下砍。"
+        },
+        "jpnjp": {
+            "name": "剣舞",
+            "caption": "戦技「剣舞」\n\n鋭く一気に前進しながら\n連続で回転斬り上げを繰り出す戦技\n追加入力で、鋭い斬り下ろしに繋げられる\n"
+        },
+        "engus": {
+            "name": "Sword Dance",
+            "caption": "Skill: Sword Dance\n\nQuickly close in to perform a series of spinning upward slashes.\nFollow up with an additional input to finish with a downward slash."
+        },
+        "icon_id": "00000"
+    },
+    "125": {
+        "zhocn": {
+            "name": "回旋锁链",
+            "caption": "战技：回旋锁链\n\n高速旋转连枷打击部位的战技。\n发动后使出轻攻击或重攻击，能顺势追击。"
+        },
+        "jpnjp": {
+            "name": "鎖回し",
+            "caption": "戦技「鎖回し」\n\nフレイルの打撃部を、高速で回転させる戦技\n通常攻撃および強攻撃で\nその勢いを活かした、追撃に繋げられる\n"
+        },
+        "engus": {
+            "name": "Spinning Chain",
+            "caption": "Skill: Spinning Chain\n\nSpins the striking part of a flail at high speed to attack.\nFollow up with a normal or strong attack to link the momentum of this skill into a successive attack."
+        },
+        "icon_id": "00000"
+    },
+    "200": {
+        "zhocn": {
+            "name": "辉剑圆阵",
+            "caption": "战技：辉剑圆阵\n\n侍奉卡利亚王室的魔法骑士们使用的战技。\n让魔力辉剑浮空围成半圆，自动攻击敌人。\n发动后接着使出重攻击，\n能向前大幅跨出、突刺攻击。"
+        },
+        "jpnjp": {
+            "name": "輝剣の円陣",
+            "caption": "戦技「輝剣の円陣」\n\nカーリア王家に仕えた魔術騎士たちの戦技\n魔力の輝剣を半円に浮遊させ、自動的に攻撃させる\n強攻撃で、大きく踏み込む突きに繋げられる\n"
+        },
+        "engus": {
+            "name": "Glintblade Phalanx",
+            "caption": "Skill: Glintblade Phalanx\n\nSkill used by the enchanted knights who served the Carian royal family. Form an arch of magic glintblades overhead, which will attack foes automatically. Follow up with a strong attack to chain this skill into a lunging thrust."
+        },
+        "icon_id": "21001"
+    },
+    "201": {
+        "zhocn": {
+            "name": "神圣刀刃",
+            "caption": "战技：神圣刀刃\n\n让武器附加圣属性攻击力，\n并且顺势释放黄金刀刃的战技。\n附加圣属性攻击力的效果会暂时延续。"
+        },
+        "jpnjp": {
+            "name": "聖なる刃",
+            "caption": "戦技「聖なる刃」\n\n武器に聖属性の攻撃力を付与し\nそのまま、黄金の刃を放つ戦技\n聖属性の付与は、しばらく継続する\n"
+        },
+        "engus": {
+            "name": "Sacred Blade",
+            "caption": "Skill: Sacred Blade\n\nGrants armament's attacks holy essence and fires off a golden blade projectile.\nThe armament retains its holy essence for a while."
+        },
+        "icon_id": "00000"
+    },
+    "202": {
+        "zhocn": {
+            "name": "冰枪",
+            "caption": "战技：冰枪\n\n侍奉“月之公主”菈妮的战士使用的战技。\n旋转武器之余唤出寒气，\n再顺势使出突刺，释放冰枪。"
+        },
+        "jpnjp": {
+            "name": "氷槍",
+            "caption": "戦技「氷槍」\n\n月の王女、ラニに仕えた戦士の戦技\n回転させた武器に冷気を呼び\nそのまま突き、氷の槍を放つ\n"
+        },
+        "engus": {
+            "name": "Ice Spear",
+            "caption": "Skill: Ice Spear\n\nSkill of the warriors who served Lunar Princess Ranni.\nSpin armament to release cold magic, then channel it into a piercing spear of ice."
+        },
+        "icon_id": "00000"
+    },
+    "203": {
+        "zhocn": {
+            "name": "辉石魔砾",
+            "caption": "战技：辉石魔砾\n\n能施展同名辉石魔法的战技。\n发动后接着使出重攻击，能大幅向前跨出，\n使出含有辉石魔力的突刺攻击。"
+        },
+        "jpnjp": {
+            "name": "輝石のつぶて",
+            "caption": "戦技「輝石のつぶて」\n\n同名の輝石魔術を用いる戦技\n強攻撃で、大きく踏み込む突きに繋げられ\nその攻撃は輝石の魔力を残している\n"
+        },
+        "engus": {
+            "name": "Glintstone Pebble",
+            "caption": "Skill: Glintstone Pebble\n\nSkill that employs the glintstone sorcery of the same name.\nFollow up with a strong attack to chain this skill into a lunging thrust, performed while the armament is still imbued with glintstone."
+        },
+        "icon_id": "00000"
+    },
+    "204": {
+        "zhocn": {
+            "name": "鲜血斩击",
+            "caption": "战技：鲜血斩击\n\n鲜血君王分享的力量，血盟战技之一。\n压低身形，将自身的血液布满剑身，\n使出大范围撕裂敌人的血刃。"
+        },
+        "jpnjp": {
+            "name": "血の斬撃",
+            "caption": "戦技「血の斬撃」\n\n血の君主の分け与える力、血盟戦技のひとつ\n体を沈め、刀身に自らの血を纏わせ\n血の刃で広範囲を切り裂く\n"
+        },
+        "engus": {
+            "name": "Bloody Slash",
+            "caption": "Skill: Bloody Slash\n\nBlood Oath skill granted by the Lord of Blood.\nFrom a low stance, coat the blade in your own blood to unleash a rending blood slash in a wide arc."
+        },
+        "icon_id": "00000"
+    },
+    "205": {
+        "zhocn": {
+            "name": "夺命拳",
+            "caption": "战技：夺命拳\n\n精通气的专家使用的战技。\n只对有着人类之身的敌人有效。\n将气缓慢缠绕拳头之后再出拳，\n能让碰触的人昏倒，夺取血量。"
+        },
+        "jpnjp": {
+            "name": "命奪拳",
+            "caption": "戦技「命奪拳」\n\n気を極めた達人の戦技。人の類にしか効果がない\nゆっくりと気を纏った拳を突き出し\n触れた者を昏倒させ、ＨＰを奪う\n"
+        },
+        "engus": {
+            "name": "Lifesteal Fist",
+            "caption": "Skill: Lifesteal Fist\n\nSkill that demonstrates mastery of the art of controlling vital energies.\nA slow, controlled punch with an energy-infused fist that renders foes unconscious and steals their HP. Only effective against foes of human build."
+        },
+        "icon_id": "00000"
+    },
+    "207": {
+        "zhocn": {
+            "name": "熔岩火浆",
+            "caption": "战技：熔岩火浆\n\n侍奉火山官邸的骑士们使用的战技。\n将武器敲向地面，形成滚烫熔岩，\n在拔起武器的同时，熔岩随之喷出。"
+        },
+        "jpnjp": {
+            "name": "溶岩噴火",
+            "caption": "戦技「溶岩噴火」\n\n火山館に仕えた騎士たちの戦技\n武器を叩きつけた地面に、滾る溶岩を生じ\n引き抜きと共にそれを噴き上げる\n"
+        },
+        "engus": {
+            "name": "Eruption",
+            "caption": "Skill: Eruption\n\nSkill of the knights who serve at Volcano Manor.\nSlam armament into the ground, spawning roiling lava which spouts up upon release."
+        },
+        "icon_id": "00000"
+    },
+    "208": {
+        "zhocn": {
+            "name": "祈祷一击",
+            "caption": "战技：祈祷一击\n\n伴随祈祷高举武器，再敲向地面的战技。\n当那一记诚挚的攻击命中敌人，\n能恢复包含周围我方人物的血量。"
+        },
+        "jpnjp": {
+            "name": "祈りの一撃",
+            "caption": "戦技「祈りの一撃」\n\n祈りと共に武器を掲げ、地面に叩き付ける戦技\nその真摯な一撃が敵に命中すれば\n周囲の味方を含めて、ＨＰを回復する\n"
+        },
+        "engus": {
+            "name": "Prayerful Strike",
+            "caption": "Skill: Prayerful Strike\n\nRaise armament aloft in prayer, then slam it into the ground.\nThis inspired blow restores HP to the self and nearby allies if it successfully hits."
+        },
+        "icon_id": "00000"
+    },
+    "209": {
+        "zhocn": {
+            "name": "重力",
+            "caption": "战技：重力\n\n源自拥有石质皮肤的白王的战技。\n将武器刺入地面，产生重力波，\n能给予敌人伤害，同时将对方拉近自己。"
+        },
+        "jpnjp": {
+            "name": "グラビタス",
+            "caption": "戦技「グラビタス」\n\n石の肌を持つ白王に由来する戦技\n武器を地面に刺し、重力波を発生させ\nダメージを与えると共に、敵を引き寄せる\n"
+        },
+        "engus": {
+            "name": "Gravitas",
+            "caption": "Skill: Gravitas\n\nSkill originating from the Alabaster Lords, who had skin of stone.\nThrust the armament into the ground to create a gravity well.\nIn addition to dealing damage, this attack pulls enemies in."
+        },
+        "icon_id": "21011"
+    },
+    "210": {
+        "zhocn": {
+            "name": "风暴刃",
+            "caption": "战技：风暴刃\n\n史东薇尔的失传战技。\n将武器缠绕风暴刃，朝前方释放风暴。\n可以连续施放。"
+        },
+        "jpnjp": {
+            "name": "嵐の刃",
+            "caption": "戦技「嵐の刃」\n\nストームヴィルの失われた戦技\n武器に嵐の刃を纏い、それを前方に放つ\n連続で放つことができる\n"
+        },
+        "engus": {
+            "name": "Storm Blade",
+            "caption": "Skill: Storm Blade\n\nLost skill of Stormveil.\nSurround armament with shearing storm winds that can be fired forward.\nCan be fired in rapid succession."
+        },
+        "icon_id": "21014"
+    },
+    "212": {
+        "zhocn": {
+            "name": "撼地",
+            "caption": "战技：撼地\n\n将武器刺入地面后，再向下使力\n产生冲击波，引发剧烈摇晃的战技。\n发动后接着使出重攻击，\n能回旋横扫攻击。"
+        },
+        "jpnjp": {
+            "name": "地揺らし",
+            "caption": "戦技「地揺らし」\n\n武器を地面に突き立てた後、力を込め\n衝撃波と共に、大地を激しく揺らす戦技\n強攻撃で、回転薙ぎ払いに繋げられる\n"
+        },
+        "engus": {
+            "name": "Earthshaker",
+            "caption": "Skill: Earthshaker\n\nThrust armament into the ground, then gather strength to unleash an earth-shaking shockwave.\nFollow up with a strong attack to swing the armament in a sweeping strike."
+        },
+        "icon_id": "00000"
+    },
+    "213": {
+        "zhocn": {
+            "name": "黄金大地",
+            "caption": "战技：黄金大地\n\n将武器刺入地面后，再向下使力\n引发神圣爆炸，形成黄金石砾的战技。\n发动后接着使出重攻击，\n能回旋横扫攻击。"
+        },
+        "jpnjp": {
+            "name": "黄金の地",
+            "caption": "戦技「黄金の地」\n\n武器を地面に突き立てた後、力を込め\n聖なる爆発と共に、黄金のつぶてを生じる\n強攻撃で、回転薙ぎ払いに繋げられる\n"
+        },
+        "engus": {
+            "name": "Golden Land",
+            "caption": "Skill: Golden Land\n\nThrust armament into the ground, then gather strength to unleash a blast of sacred energy that coalesces into golden darts. Follow up with a strong attack to swing the armament in a sweeping strike."
+        },
+        "icon_id": "00000"
+    },
+    "214": {
+        "zhocn": {
+            "name": "炎击",
+            "caption": "战技：炎击\n\n朝前方大范围释放火焰的战技。\n发动后接着使出重攻击，\n能向前跨出、横扫攻击，并让武器缠绕火焰。"
+        },
+        "jpnjp": {
+            "name": "炎撃",
+            "caption": "戦技「炎撃」\n\n前方広範囲に炎を放つ戦技\n強攻撃で、踏み込む薙ぎ払いに繋げられる\nまたその時に、武器は炎を纏う\n"
+        },
+        "engus": {
+            "name": "Flaming Strike",
+            "caption": "Skill: Flaming Strike\n\nSkill that emits flame in a wide frontward arc.\nFollow up with a strong attack to perform a lunging, sweeping strike.\nThis will also coat the armament in fire."
+        },
+        "icon_id": "00000"
+    },
+    "216": {
+        "zhocn": {
+            "name": "落雷",
+            "caption": "战技：落雷\n\n王城古龙信仰的战技之一。\n武器指向天之后会蕴藏雷电，召唤落雷。\n可以连续施放。"
+        },
+        "jpnjp": {
+            "name": "落雷",
+            "caption": "戦技「落雷」\n\n王都古竜信仰の戦技のひとつ\n突き上げる武器に雷を宿し、落雷を呼ぶ\n連続で放つことができる\n"
+        },
+        "engus": {
+            "name": "Thunderbolt",
+            "caption": "Skill: Thunderbolt\n\nSkill used by the capital's ancient dragon cult.\nRaise armament aloft to call down a bolt of lightning.\nCan be fired in rapid succession."
+        },
+        "icon_id": "21028"
+    },
+    "217": {
+        "zhocn": {
+            "name": "雷击斩",
+            "caption": "战技：雷击斩\n\n让雷电打在武器上，再向下挥舞，\n形成强力雷击的战技。\n缠绕武器上的雷电会暂时延续。"
+        },
+        "jpnjp": {
+            "name": "雷撃斬",
+            "caption": "戦技「雷撃斬」\n\n武器に雷を呼び、斬り下ろすことで\n凄まじい雷撃を発生させる戦技\n武器の雷は、しばらく継続する\n"
+        },
+        "engus": {
+            "name": "Lightning Slash",
+            "caption": "Skill: Lightning Slash\n\nCall down a bolt of lightning into armament, then swing it down to create an explosive shock.\nThe armament retains the lightning enchantment for a while."
+        },
+        "icon_id": "00000"
+    },
+    "218": {
+        "zhocn": {
+            "name": "伟哉卡利亚",
+            "caption": "战技：伟哉卡利亚\n\n喻为卡利亚王室象征的战技。\n将剑身化为魔力大剑，再向下挥舞。\n借由蓄力发动，能提升两个阶段。"
+        },
+        "jpnjp": {
+            "name": "グレート・カーリア",
+            "caption": "戦技「グレート・カーリア」\n\nカーリア王家の象徴とされる戦技\n剣身を魔力の大剣と化し、振り下ろす\nタメ使用で、二段階に強化される\n"
+        },
+        "engus": {
+            "name": "Carian Grandeur",
+            "caption": "Skill: Carian Grandeur\n\nCarian royal prestige embodied in a skill.\nTransform blade into a magical greatsword and swing it down.\nCan be charged to increase its power by up to two levels."
+        },
+        "icon_id": "00000"
+    },
+    "219": {
+        "zhocn": {
+            "name": "卡利亚大剑",
+            "caption": "战技：卡利亚大剑\n\n喻为卡利亚王室象征的战技。\n将剑身化为魔力大剑，再向下挥舞。\n借由蓄力发动，能提升威力。"
+        },
+        "jpnjp": {
+            "name": "カーリアの大剣",
+            "caption": "戦技「カーリアの大剣」\n\nカーリア王家の象徴とされる戦技\n剣身を魔力の大剣と化し、振り下ろす\nタメ使用で強化される\n"
+        },
+        "engus": {
+            "name": "Carian Greatsword",
+            "caption": "Skill: Carian Greatsword\n\nCarian royal prestige embodied in a skill.\nTransform blade into a magical greatsword and swing it down.\nCan be charged to increase its power."
+        },
+        "icon_id": "21033"
+    },
+    "220": {
+        "zhocn": {
+            "name": "真空斩",
+            "caption": "战技：真空斩\n\n古英雄们的失传战技。\n高举剑身形成真空状态，\n再化为真空刃，朝前方释放。"
+        },
+        "jpnjp": {
+            "name": "真空斬り",
+            "caption": "戦技「真空斬り」\n\n古い英雄たちの失われた戦技\n高く掲げた剣身に、真空を生じさせ\nそれを刃として前方に放つ\n"
+        },
+        "engus": {
+            "name": "Vacuum Slice",
+            "caption": "Skill: Vacuum Slice\n\nLost skill of ancient heroes.\nHold the armament aloft to surround it with a shearing vacuum, then launch it forwards as a blade-like projectile."
+        },
+        "icon_id": "00000"
+    },
+    "221": {
+        "zhocn": {
+            "name": "黑焰漩涡",
+            "caption": "战技：黑焰漩涡\n\n旋转武器再刺向地面，\n唤出漩涡状黑焰的战技。\n持续发动的期间，\n在旋转时也能形成黑焰漩涡。"
+        },
+        "jpnjp": {
+            "name": "黒炎の渦",
+            "caption": "戦技「黒炎の渦」\n\n武器を回転させ、地面に突き刺し\n渦巻く黒炎を呼ぶ戦技\n長押しで、回転時も黒炎の渦が発生する\n"
+        },
+        "engus": {
+            "name": "Black Flame Tornado",
+            "caption": "Skill: Black Flame Tornado\n\nSpin armament overhead and then plunge it into the ground to summon a raging vortex of black flames.\nHold to create an initial flame tornado while spinning the armament."
+        },
+        "icon_id": "00000"
+    },
+    "222": {
+        "zhocn": {
+            "name": "神圣光环",
+            "caption": "战技：神圣光环\n\n尊腐骑士的指挥官使用的战技。\n让武器形成神圣光环，朝前方释放。\n可以连续施放。"
+        },
+        "jpnjp": {
+            "name": "聖なる光輪",
+            "caption": "戦技「聖なる光輪」\n\n貴腐の騎士、その指揮官が用いた戦技\n武器に聖なる光輪を生じ、前方に放つ\nまた、連続で放つことができる\n"
+        },
+        "engus": {
+            "name": "Sacred Ring of Light",
+            "caption": "Skill: Sacred Ring of Light\n\nSkill used by the commanders of the Cleanrot Knights. Gather a sacred ring of light in the armament, then fire it forwards.\nCan be fired in rapid succession."
+        },
+        "icon_id": "00000"
+    },
+    "223": {
+        "zhocn": {
+            "name": "喷火",
+            "caption": "战技：喷火\n\n吐出大口气吹向火把的火焰，\n让火焰向前大范围燃烧的战技。\n火焰会暂时在地面燃烧。"
+        },
+        "jpnjp": {
+            "name": "火吹き",
+            "caption": "戦技「火吹き」\n\n松明の炎に激しく息を吹き付け\n前方広範囲を焼き払う戦技\nその炎は、少しの間、地面を燃やし続ける\n"
+        },
+        "engus": {
+            "name": "Firebreather",
+            "caption": "Skill: Firebreather\n\nBlow into torch flame, spreading flames in a wide frontward arc. The flames on the ground will continue to burn for a short time."
+        },
+        "icon_id": "00000"
+    },
+    "224": {
+        "zhocn": {
+            "name": "血刃",
+            "caption": "战技：血刃\n\n自伤后用血液沾染武器，\n释放能引发出血的血刃的战技。\n可以连续施放。"
+        },
+        "jpnjp": {
+            "name": "血の刃",
+            "caption": "戦技「血の刃」\n\n自らを傷付け、武器を血で汚し\n出血を強いる血の刃を放つ戦技\n連続で放つことができる\n"
+        },
+        "engus": {
+            "name": "Blood Blade",
+            "caption": "Skill: Blood Blade\n\nWound self to coat the armament with blood, then unleash an airborne blood blade that causes hemorrhaging.\nCan be fired in rapid succession."
+        },
+        "icon_id": "00000"
+    },
+    "225": {
+        "zhocn": {
+            "name": "幻影共击",
+            "caption": "战技：幻影共击\n\n黑夜骑兵的恋旧战技。\n能形成过去老师的幻影，一同突击上砍。\n再次发动能使出追击。"
+        },
+        "jpnjp": {
+            "name": "共撃の幻",
+            "caption": "戦技「共撃の幻」\n\n夜の騎兵の、郷愁の戦技\nかつての師の幻影を生じ、共に突撃し斬り上げる\n追加入力で追撃に繋げられる\n"
+        },
+        "engus": {
+            "name": "Phantom Slash",
+            "caption": "Skill: Phantom Slash\n\nSkill inspired by the fond remembrances of the Night's Cavalry. Creates an apparition of the knights' former instructor who guides a joint lunging upward swing. Additional input allows for a follow-up attack."
+        },
+        "icon_id": "00000"
+    },
+    "226": {
+        "zhocn": {
+            "name": "幻影枪",
+            "caption": "战技：幻影枪\n\n无头灵庙骑士使用的战技。\n能形成幻影枪，投掷攻击。"
+        },
+        "jpnjp": {
+            "name": "幻影の槍",
+            "caption": "戦技「幻影の槍」\n\n首のない霊廟騎士の戦技\n幻影の槍を生じ、それを投擲する\n"
+        },
+        "engus": {
+            "name": "Spectral Lance",
+            "caption": "Skill: Spectral Lance\n\nSkill of the headless Mausoleum Knights.\nHurl a phantasmic spear at foes."
+        },
+        "icon_id": "00000"
+    },
+    "227": {
+        "zhocn": {
+            "name": "寒气冻雾",
+            "caption": "战技：寒气冻雾\n\n让武器缠绕寒气后使出斩击，\n并在前方形成冻雾的战技。\n缠绕武器上的寒气会暂时延续。"
+        },
+        "jpnjp": {
+            "name": "冷気の霧",
+            "caption": "戦技「冷気の霧」\n\n武器に冷気を纏わせて斬り\n前方に、その霧を生じる戦技\n武器の冷気は、しばらく継続する\n"
+        },
+        "engus": {
+            "name": "Chilling Mist",
+            "caption": "Skill: Chilling Mist\n\nCoat armament in frost, and then slash, spreading frigid mist forwards.\nThe armament retains its frost for a while."
+        },
+        "icon_id": "00000"
+    },
+    "228": {
+        "zhocn": {
+            "name": "毒雾",
+            "caption": "战技：毒雾\n\n让武器缠绕毒之后使出斩击，\n并在前方形成毒雾的战技，\n缠绕武器上的毒会暂时延续。"
+        },
+        "jpnjp": {
+            "name": "毒の霧",
+            "caption": "戦技「毒の霧」\n\n武器に毒を纏わせて斬り\n前方に、その霧を生じる戦技\n武器の毒は、しばらく継続する\n"
+        },
+        "engus": {
+            "name": "Poisonous Mist",
+            "caption": "Skill: Poisonous Mist\n\nBathe armament in poison, and then slash, spreading toxic mist forwards.\nThe armament retains its poison for a while."
+        },
+        "icon_id": "00000"
+    },
+    "300": {
+        "zhocn": {
+            "name": "盾牌冲击",
+            "caption": "战技：盾牌冲击\n\n架稳盾牌、防御的同时，\n利用全身的重量向前冲撞的战技。\n对弱小的敌人使出，能让对方失去平衡。"
+        },
+        "jpnjp": {
+            "name": "シールドバッシュ",
+            "caption": "戦技「シールドバッシュ」\n\nしっかりと盾を構え\nガードしたまま体重を乗せてぶつける戦技\n非力な敵を押し出し、またよろめかせる\n"
+        },
+        "engus": {
+            "name": "Shield Bash",
+            "caption": "Skill: Shield Bash\n\nBrace behind shield before using bodyweight to ram foes while maintaining guarding stance.\nWeaker enemies will be shoved backwards, and can even be staggered."
+        },
+        "icon_id": "00000"
+    },
+    "301": {
+        "zhocn": {
+            "name": "铁壁盾防",
+            "caption": "战技：铁壁盾防\n\n因骑士奈德哈特而闻名的战技。\n将力量集中至盾牌，暂时强化盾牌的坚硬度，\n能抵御更为强大的攻击。"
+        },
+        "jpnjp": {
+            "name": "鉄壁の盾",
+            "caption": "戦技「鉄壁の盾」\n\n騎士ナイトハルトの名で知られる戦技\n盾に力を集中させ、一時的に硬度を増し\nより大きな攻撃を弾けるようにする\n"
+        },
+        "engus": {
+            "name": "Barricade Shield",
+            "caption": "Skill: Barricade Shield\n\nSkill made famous by Sir Neidhardt.\nFocus your energy into the shield, temporarily hardening it to deflect greater blows."
+        },
+        "icon_id": "00000"
+    },
+    "302": {
+        "zhocn": {
+            "name": "格挡",
+            "caption": "战技：格挡\n\n拨开攻击的同时，让敌人失去平衡的战技。\n需要在敌人近距离攻击时配合使用。\n失去平衡后，使出“致命一击”的机会随之到来。"
+        },
+        "jpnjp": {
+            "name": "パリィ",
+            "caption": "戦技「パリィ」\n\n近接攻撃にタイミングを合わせて使用し\n攻撃を逸らし、敵の体勢を崩す戦技\n致命の一撃のチャンスとなる\n"
+        },
+        "engus": {
+            "name": "Parry",
+            "caption": "Skill: Parry\n\nUse this skill in time with a foe's melee attack to deflect it and break that foe's stance.\nThis provides an opening to perform a critical hit."
+        },
+        "icon_id": "21055"
+    },
+    "303": {
+        "zhocn": {
+            "name": "小圆盾格挡",
+            "caption": "战技：小圆盾格挡\n\n拨开攻击的同时，让敌人失去平衡的战技。\n需要在敌人近距离攻击时配合使用。\n发动速度比战技“格挡”还快。"
+        },
+        "jpnjp": {
+            "name": "バックラーパリィ",
+            "caption": "戦技「バックラーパリィ」\n\n近接攻撃にタイミングを合わせて使用し\n攻撃を逸らし、敵の体勢を崩す戦技\n通常のパリィよりも、速度に優れる\n"
+        },
+        "engus": {
+            "name": "Buckler Parry",
+            "caption": "Skill: Buckler Parry\n\nUse this skill in time with a foe's melee attack to deflect it and break that foe's stance.\nThis is faster than a regular parry."
+        },
+        "icon_id": "21055"
+    },
+    "304": {
+        "zhocn": {
+            "name": "格挡",
+            "caption": "战技：格挡\n\n拨开攻击的同时，让敌人失去平衡的战技。\n需要在敌人近距离攻击时配合使用。\n失去平衡后，使出“致命一击”的机会随之到来。"
+        },
+        "jpnjp": {
+            "name": "パリィ",
+            "caption": "戦技「パリィ」\n\n近接攻撃にタイミングを合わせて使用し\n攻撃を逸らし、敵の体勢を崩す戦技\n致命の一撃のチャンスとなる\n"
+        },
+        "engus": {
+            "name": "Parry",
+            "caption": "Skill: Parry\n\nUse this skill in time with a foe's melee attack to deflect it and break that foe's stance.\nThis provides an opening to perform a critical hit."
+        },
+        "icon_id": ""
+    },
+    "305": {
+        "zhocn": {
+            "name": "卡利亚式奉还",
+            "caption": "战技：卡利亚式奉还\n\n挥动盾牌消除魔法、祷告的效用，\n再用承受的力量化为浮空辉剑的战技。\n也能发挥与战技“格挡”相同的功能。"
+        },
+        "jpnjp": {
+            "name": "カーリアの返報",
+            "caption": "戦技「カーリアの返報」\n\n盾を払い、魔術や祈祷を消し去り\nその力を輝剣として逆展開する戦技\nまた、通常のパリィとしても機能する\n"
+        },
+        "engus": {
+            "name": "Carian Retaliation",
+            "caption": "Skill: Carian Retaliation\n\nSwing the shield to dispel incoming sorceries and incantations, transforming the magic into retaliatory glintblades.\nCan also be used in the same way as a regular parry."
+        },
+        "icon_id": "00000"
+    },
+    "306": {
+        "zhocn": {
+            "name": "风暴障壁",
+            "caption": "战技：风暴障壁\n\n挥动盾牌，在自身前方形成风暴障壁，\n让箭之类的远攻道具偏移的战技。\n也能发挥与战技“格挡”相同的功能。"
+        },
+        "jpnjp": {
+            "name": "嵐の壁",
+            "caption": "戦技「嵐の壁」\n\n盾を払い、前方に嵐の壁を発生させ\n矢などの飛び道具を逸らせる戦技\nまた、通常のパリィとしても機能する\n"
+        },
+        "engus": {
+            "name": "Storm Wall",
+            "caption": "Skill: Storm Wall\n\nSwing the shield to create a wall of storm winds in front of you, deflecting arrows and other such physical projectiles.\nCan also be used in the same way as a regular parry."
+        },
+        "icon_id": "00000"
+    },
+    "307": {
+        "zhocn": {
+            "name": "黄金格挡",
+            "caption": "战技：黄金格挡\n\n执行黄金树祷告的同时挥动盾牌，\n让敌人的攻击偏移，并失去平衡的战技。\n与敌人有些距离也能产生效用。"
+        },
+        "jpnjp": {
+            "name": "黄金パリィ",
+            "caption": "戦技「黄金パリィ」\n\n黄金樹の祈祷と共に、盾を払い\n敵の攻撃を逸らし、体勢を崩す戦技\n少し離れた距離でも有効となる\n"
+        },
+        "engus": {
+            "name": "Golden Parry",
+            "caption": "Skill: Golden Parry\n\nPerform an Erdtree incantation and swing the shield to deflect enemy attacks and break their stance.\nEffective even at a slight distance."
+        },
+        "icon_id": "21055"
+    },
+    "308": {
+        "zhocn": {
+            "name": "突进冲击",
+            "caption": "战技：突进冲击\n\n用双手共持盾牌，\n防御的同时，向前突进的战技。\n对弱小的敌人使出，能让对方失去平衡。\n持续发动能增加移动距离。"
+        },
+        "jpnjp": {
+            "name": "突撃バッシュ",
+            "caption": "戦技「突撃バッシュ」\n\n両手で盾を構え、ガードしたまま突撃する戦技\n非力な敵を押し出し、またよろめかせる\n長押しで前進距離を伸ばすことができる\n"
+        },
+        "engus": {
+            "name": "Shield Crash",
+            "caption": "Skill: Shield Crash\n\nTwo-hand the shield and charge forwards while maintaining guard. Weaker enemies will be shoved backwards and can even be staggered.\nHold to extend the duration of the charge forwards."
+        },
+        "icon_id": "00000"
+    },
+    "309": {
+        "zhocn": {
+            "name": "托普斯的力场",
+            "caption": "战技：托普斯的力场\n\n张开魔力力场的同时挥动盾牌，\n能拨开魔法、祷告的战技。\n也能发挥与战技“格挡”相同的功能。"
+        },
+        "jpnjp": {
+            "name": "トープスの力場",
+            "caption": "戦技「トープスの力場」\n\n魔力の力場と共に、盾を払い\n魔術や祈祷を逸らす戦技\nまた、通常のパリィとしても機能する\n"
+        },
+        "engus": {
+            "name": "Thops's Barrier",
+            "caption": "Skill: Thops's Barrier\n\nErect a magical forcefield while swinging the shield to deflect sorceries and incantations.\nCan also be used in the same way as a regular parry."
+        },
+        "icon_id": "00000"
+    },
+    "400": {
+        "zhocn": {
+            "name": "贯穿射击",
+            "caption": "战技：贯穿射击\n\n能侧身拉开大弓，强大的射手战技。\n拉开大弓的同时也扭转弓弦，\n增加大箭的旋转度，借此贯穿敌人的身体。"
+        },
+        "jpnjp": {
+            "name": "貫通射撃",
+            "caption": "戦技「貫通射撃」\n\n大弓を半身に構える、剛力の射手の戦技\n構えながら、大矢を捻り射ることで\nそれは、敵の体を貫通する\n"
+        },
+        "engus": {
+            "name": "Through and Through",
+            "caption": "Skill: Through and Through\n\nPowerful archery skill using a greatbow held in an oblique stance.\nReady the greatbow, then twist the bowstring to fire a mighty greatarrow that can penetrate through enemies."
+        },
+        "icon_id": "00000"
+    },
+    "401": {
+        "zhocn": {
+            "name": "连续射击",
+            "caption": "战技：连续射击\n\n能水平拉弓的射手战技。\n摆出架式后，能以肉眼难以追上的速度，\n连续射出箭。"
+        },
+        "jpnjp": {
+            "name": "連続射撃",
+            "caption": "戦技「連続射撃」\n\n水平に弓を構える、射手の戦技\n構えながら、目にも止まらぬ速さで\n連続で矢を射ることができる\n"
+        },
+        "engus": {
+            "name": "Barrage",
+            "caption": "Skill: Barrage\n\nArchery skill using a bow held horizontally.\nReady the bow, then fire off a rapid succession of shots faster than the eye can see."
+        },
+        "icon_id": "00000"
+    },
+    "402": {
+        "zhocn": {
+            "name": "拉满弓",
+            "caption": "战技：拉满弓\n\n能侧身拉弓的射手战技。\n摆出架式后，用力拉满弓，\n能提升箭的攻击威力，突破敌人防御。"
+        },
+        "jpnjp": {
+            "name": "強射",
+            "caption": "戦技「強射」\n\n半身に弓を構える、射手の戦技\n構えながら、引き絞って射ることで\nその矢は威力を増し、ガードを貫く\n"
+        },
+        "engus": {
+            "name": "Mighty Shot",
+            "caption": "Skill: Mighty Shot\n\nArchery skill performed from an oblique stance.\nReady the bow, then pull the bowstring to its limit to enhance the power of the shot, penetrating the enemy's guard."
+        },
+        "icon_id": "00000"
+    },
+    "404": {
+        "zhocn": {
+            "name": "宿灵射击",
+            "caption": "战技：宿灵射击\n\n摆出架式，让灵魂寄宿在箭之上，\n再射击的战技。飞行速度比一般的箭更快。\n仿佛会追踪目标，飞行轨道会随之调整。"
+        },
+        "jpnjp": {
+            "name": "宿し撃ち",
+            "caption": "戦技「宿し撃ち」\n\n弓を構え、矢に霊を宿して射る戦技\nその矢は、通常よりも速く飛び\n目標を追うように、その軌道を変える\n"
+        },
+        "engus": {
+            "name": "Enchanted Shot",
+            "caption": "Skill: Enchanted Shot\n\nArchery skill that enlivens the arrow with spiritual essence.\nThe resulting shot will fly faster than regular shots and change its trajectory to follow the target."
+        },
+        "icon_id": "00000"
+    },
+    "405": {
+        "zhocn": {
+            "name": "对空射击",
+            "caption": "战技：对空射击\n\n压低身形拉弓的射手战技。\n摆出架式后，朝天空射出箭，\n箭会从敌人上方落下。"
+        },
+        "jpnjp": {
+            "name": "空撃ち",
+            "caption": "戦技「空撃ち」\n\n低い姿勢で弓を構える、射手の戦技\n構えながら、空に向かい矢を射る\nその矢は、敵の頭上に降ってくる\n"
+        },
+        "engus": {
+            "name": "Sky Shot",
+            "caption": "Skill: Sky Shot\n\nArchery skill performed from a low stance.\nReady the bow, then fire an arrow high up into the air, arcing so as to strike the enemy from above when it comes down."
+        },
+        "icon_id": "00000"
+    },
+    "406": {
+        "zhocn": {
+            "name": "箭雨",
+            "caption": "战技：箭雨\n\n压低身形拉弓的战技。\n摆出架式后，朝天空一口气射出多支箭，\n箭会如雨一般，从敌人上方倾注而下。"
+        },
+        "jpnjp": {
+            "name": "アローレイン",
+            "caption": "戦技「アローレイン」\n\n低い姿勢で弓を構える戦技\n構えながら、複数の矢を一気に空に射る\nそれは、雨のごとく敵に降り注ぐ\n"
+        },
+        "engus": {
+            "name": "Rain of Arrows",
+            "caption": "Skill: Rain of Arrows\n\nArchery skill performed from a low stance.\nReady the bow, then fire a burst of arrows into the sky to shower the enemy with projectiles."
+        },
+        "icon_id": "00000"
+    },
+    "501": {
+        "zhocn": {
+            "name": "冻霜踏地",
+            "caption": "战技：冻霜踏地\n\n大力踏向地面，让冻霜随之扩散的战技。\n冻霜会引发异常状态冻伤。"
+        },
+        "jpnjp": {
+            "name": "霜踏み",
+            "caption": "戦技「霜踏み」\n\n大地を強く踏み、霜の地走りを起こす戦技\n霜には、冷気の状態異常効果がある\n"
+        },
+        "engus": {
+            "name": "Hoarfrost Stomp",
+            "caption": "Skill: Hoarfrost Stomp\n\nStomp hard to spread a trail of freezing mist on the ground.\nThe mist applies the frost status effect."
+        },
+        "icon_id": "21042"
+    },
+    "502": {
+        "zhocn": {
+            "name": "风暴足",
+            "caption": "战技：风暴足\n\n史东薇尔的风暴战技之一。\n能大力踏向地面，在自身周围引发瞬间的风暴。"
+        },
+        "jpnjp": {
+            "name": "嵐脚",
+            "caption": "戦技「嵐脚」\n\nストームヴィルの嵐の戦技のひとつ\n大地を強く踏み、自らの周りに一瞬の嵐を起こす\n"
+        },
+        "engus": {
+            "name": "Storm Stomp",
+            "caption": "Skill: Storm Stomp\n\nOne of the skills that channel the tempests of Stormveil.\nStomp hard on the ground to kick up a momentary storm."
+        },
+        "icon_id": "21042"
+    },
+    "503": {
+        "zhocn": {
+            "name": "踢击",
+            "caption": "战技：踢击\n\n大幅抬起脚向前踢的战技。\n对正在防御的敌人很有效，能使对方失去平衡。\n朴实却又实用的战技。"
+        },
+        "jpnjp": {
+            "name": "キック",
+            "caption": "戦技「キック」\n\n脚を大きく上げ、蹴りつける戦技\nガードに対し有効で、体勢を崩すことができる\n単純だが実戦的な戦技\n"
+        },
+        "engus": {
+            "name": "Kick",
+            "caption": "Skill: Kick\n\nPush an enemy back with a high kick.\nEffective against enemies who are guarding, and can break a foe's stance.\nSometimes a simple tool is the most effective."
+        },
+        "icon_id": "21045"
+    },
+    "504": {
+        "zhocn": {
+            "name": "雷电羊球",
+            "caption": "战技：雷电羊球\n\n仿效向前滚的羊而出现的战技。\n发出叫声后，能缠绕雷电向前滚动，\n可以连续滚动。"
+        },
+        "jpnjp": {
+            "name": "雷の羊",
+            "caption": "戦技「雷の羊」\n\n前転する羊を師とする戦技\n嘶きの後、雷を纏ってごろりと前転する\n連続で転がることができる\n"
+        },
+        "engus": {
+            "name": "Lightning Ram",
+            "caption": "Skill: Lightning Ram\n\nSkill inspired by tumbling rams.\nLet out a bleat, then tumble forwards, clad in lightning.\nTumbles can be repeated in rapid succession."
+        },
+        "icon_id": "00000"
+    },
+    "505": {
+        "zhocn": {
+            "name": "红狮子火焰",
+            "caption": "战技：红狮子火焰\n\n与拉塔恩将军并肩作战的\n红狮子军队所使用的战技。\n能朝前方释放大范围的强烈火焰。"
+        },
+        "jpnjp": {
+            "name": "赤獅子の炎",
+            "caption": "戦技「赤獅子の炎」\n\n将軍ラダーンと共に戦った、赤獅子の軍勢の戦技\n前方広範囲に、強い炎を放つ\n"
+        },
+        "engus": {
+            "name": "Flame of the Redmanes",
+            "caption": "Skill: Flame of the Redmanes\n\nSkill of the Redmanes, who fought alongside General Radahn.\nProduce a powerful burst of flames in a wide frontward arc."
+        },
+        "icon_id": "00000"
+    },
+    "506": {
+        "zhocn": {
+            "name": "坠落震击",
+            "caption": "战技：坠落震击\n\n轻盈向前跳，再顺势用臀部\n用力向下坠落的战技。\n此攻击能引发剧烈的冲击波。"
+        },
+        "jpnjp": {
+            "name": "ヒップドロップ",
+            "caption": "戦技「ヒップドロップ」\n\nふわりと前方に跳躍し\nそのまま、重い尻を落としていく戦技\nその尻撃は、激しい衝撃波を発生させる\n"
+        },
+        "engus": {
+            "name": "Ground Slam",
+            "caption": "Skill: Ground Slam\n\nJump up high into the air and crash down on the ground ahead.\nThe resulting pratfall sends a powerful shockwave in all directions."
+        },
+        "icon_id": "21062"
+    },
+    "507": {
+        "zhocn": {
+            "name": "黄金坠落震击",
+            "caption": "战技：黄金坠落震击\n\n守护小黄金树的化身使用的战技。\n能轻盈向前跳，用臀部用力向下坠落，\n此攻击能引发黄金冲击波。"
+        },
+        "jpnjp": {
+            "name": "黄金の尻撃",
+            "caption": "戦技「黄金の尻撃」\n\n小黄金樹を守る、化身の戦技\nふわりと前方に跳躍し、重い尻を落とす\nその尻撃は、黄金の衝撃波を発生させる\n"
+        },
+        "engus": {
+            "name": "Golden Slam",
+            "caption": "Skill: Golden Slam\n\nSkill of the avatars who protect Minor Erdtrees.\nJump up high into the air and crash down on the ground ahead.\nThe resulting pratfall sends golden shockwaves in all directions."
+        },
+        "icon_id": "21062"
+    },
+    "508": {
+        "zhocn": {
+            "name": "黑暗波动",
+            "caption": "战技：黑暗波动\n\n将武器刺入地面后，在自身周围\n产生三道黑暗波动的战技。\n发动后接着使出重攻击，能回旋横扫攻击。"
+        },
+        "jpnjp": {
+            "name": "暗黒波",
+            "caption": "戦技「暗黒波」\n\n武器を地面に突き立て、自らの周りに\n三度の暗黒波を発生させる戦技\n強攻撃で、回転薙ぎ払いに繋げられる\n"
+        },
+        "engus": {
+            "name": "Waves of Darkness",
+            "caption": "Skill: Waves of Darkness\n\nPlunge armament into the ground to release three waves of darkness.\nFollow up with a strong attack to swing the armament in a sweeping strike."
+        },
+        "icon_id": "21062"
+    },
+    "509": {
+        "zhocn": {
+            "name": "荷莱·露的撼地",
+            "caption": "战技：荷莱·露的撼地\n\n以张开的双臂敲向地面，\n产生冲击波，引发剧烈摇晃的战技。\n再次发动能再一次敲击地面。"
+        },
+        "jpnjp": {
+            "name": "ホーラ・ルーの地揺らし",
+            "caption": "戦技「ホーラ・ルーの地揺らし」\n\n広げた両手で地面を叩き\n衝撃波と共に、大地を激しく揺らす戦技\n追加入力で、もう一度地面を叩く\n"
+        },
+        "engus": {
+            "name": "Hoarah Loux's Earthshaker",
+            "caption": "Skill: Hoarah Loux's Earthshaker\n\nSlam both hands onto the ground to violently shake the earth and unleash a shockwave.\nFollow up with an additional input to slam the ground again."
+        },
+        "icon_id": "21062"
+    },
+    "600": {
+        "zhocn": {
+            "name": "决心",
+            "caption": "战技：决心\n\n骑士们的战技。\n将武器移向眼前、指向天空，坚定决心，\n提升下一记攻击的威力。"
+        },
+        "jpnjp": {
+            "name": "デターミネーション",
+            "caption": "戦技「デターミネーション」\n\n騎士たちの戦技\n武器を眼前に掲げ、決意を誓い\n次の一撃の威力を高める\n"
+        },
+        "engus": {
+            "name": "Determination",
+            "caption": "Skill: Determination\n\nA knightly skill.\nHold the flat of the armament to your face and pledge your resolve, powering up your next attack."
+        },
+        "icon_id": "21017"
+    },
+    "601": {
+        "zhocn": {
+            "name": "侍王骑士的决心",
+            "caption": "战技：侍王骑士的决心\n\n过去侍奉艾尔登之王的骑士们使用的战技。\n将武器移向眼前、指向天空，坚定决心，\n大幅提升下一记攻击的威力。"
+        },
+        "jpnjp": {
+            "name": "王騎士の決意",
+            "caption": "戦技「王騎士の決意」\n\nかつてエルデの王に仕えた、騎士たちの戦技\n武器を眼前に掲げ、決意を誓い\n次の一撃の威力を大きく高める\n"
+        },
+        "engus": {
+            "name": "Royal Knight's Resolve",
+            "caption": "Skill: Royal Knight's Resolve\n\nSkill of the knights who once served the Elden Lord.\nHold the flat of the armament to your face and pledge your resolve, greatly powering up your next attack."
+        },
+        "icon_id": "21017"
+    },
+    "602": {
+        "zhocn": {
+            "name": "暗杀办法",
+            "caption": "战技：暗杀办法\n\n自伤之后，消除自身存在的战技。\n能让施放者的身影难以辨认，\n也能消除施放者的脚步声。"
+        },
+        "jpnjp": {
+            "name": "暗殺の作法",
+            "caption": "戦技「暗殺の作法」\n\n自らを傷付け、その存在を消す戦技\n使用者の姿は視認し難くなり\nまたその足音も消える\n"
+        },
+        "engus": {
+            "name": "Assassin's Gambit",
+            "caption": "Skill: Assassin's Gambit\n\nSkill that masks the user's presence at the cost of a self-inflicted wound.\nGrants near-invisibility and silences footsteps."
+        },
+        "icon_id": "00000"
+    },
+    "603": {
+        "zhocn": {
+            "name": "黄金树立誓",
+            "caption": "战技：黄金树立誓\n\n王城骑士们自古继承而来的战技。\n将武器指向天空，发誓为黄金树而战，\n提升自己与周围我方人物的攻击力与防御力。"
+        },
+        "jpnjp": {
+            "name": "黄金樹に誓って",
+            "caption": "戦技「黄金樹に誓って」\n\n王都の騎士たちに、古くから伝わる戦技\n武器を掲げ、黄金樹に戦いを誓い\n自らと周囲の味方の、攻撃力と防御力を高める\n"
+        },
+        "engus": {
+            "name": "Golden Vow",
+            "caption": "Skill: Golden Vow\n\nSkill passed down from antiquity among the knights of the capital. Raise armament aloft and pledge to honor the Erdtree in battle, granting self and nearby allies increased attack power and defense."
+        },
+        "icon_id": "00000"
+    },
+    "604": {
+        "zhocn": {
+            "name": "圣律",
+            "caption": "战技：圣律\n\n黄金律法基本主义者的骑士们使用的战技。\n敬礼的同时，能替武器附加神圣性。\n对死诞者的伤害尤为巨大。"
+        },
+        "jpnjp": {
+            "name": "聖律",
+            "caption": "戦技「聖律」\n\n黄金律原理主義の騎士たちの戦技\n敬礼と共に、武器に聖性を付与する\n特に、死に生きる者たちに効果が高い\n"
+        },
+        "engus": {
+            "name": "Sacred Order",
+            "caption": "Skill: Sacred Order\n\nSkill of the Golden Order fundamentalist knights.\nPerform a salute and grant the armament holy essence.\nHighly effective against Those Who Live in Death."
+        },
+        "icon_id": "00000"
+    },
+    "605": {
+        "zhocn": {
+            "name": "共享圣律",
+            "caption": "战技：共享圣律\n\n黄金律法基本主义者的骑士们使用的战技。\n能替自身与周围我方人物的武器附加神圣性。\n对死诞者的伤害尤为巨大。"
+        },
+        "jpnjp": {
+            "name": "聖律共有",
+            "caption": "戦技「聖律共有」\n\n黄金律原理主義の騎士たちの戦技\n自らと周囲の味方の武器に、聖性を付与する\n特に、死に生きる者たちに効果が高い\n"
+        },
+        "engus": {
+            "name": "Shared Order",
+            "caption": "Skill: Shared Order\n\nSkill of the Golden Order fundamentalist knights.\nGrant the armament and those of nearby allies holy essence.\nHighly effective against Those Who Live in Death."
+        },
+        "icon_id": "00000"
+    },
+    "606": {
+        "zhocn": {
+            "name": "切腹",
+            "caption": "战技：切腹\n\n芦苇之地的剑客，禁用的奥义。\n将武器深深刺入自己的腹部，染上鲜血，\n能提升攻击力、强化异常状态出血的效果。"
+        },
+        "jpnjp": {
+            "name": "切腹",
+            "caption": "戦技「切腹」\n\n葦の地の剣客の、禁じられた奥義\n自らの腹を深く刺し、刃を血で染め\n攻撃力と、出血の状態異常効果を高める\n"
+        },
+        "engus": {
+            "name": "Seppuku",
+            "caption": "Skill: Seppuku\n\nA forbidden technique used by swordsmen from the Land of Reeds. Plunge the blade into your stomach to stain it with blood. Increases attack power and improves ability to inflict blood loss."
+        },
+        "icon_id": "21062"
+    },
+    "607": {
+        "zhocn": {
+            "name": "岩石剑",
+            "caption": "战技：岩石剑\n\n以重力招式为人知晓的战技。\n将武器敲向地面，让岩石攀附其上。\n能提升攻击力，也容易让敌人失去平衡。"
+        },
+        "jpnjp": {
+            "name": "岩石剣",
+            "caption": "戦技「岩石剣」\n\n重力の技として知られる戦技\n武器を地面に叩きつけ、岩石を纏わせる\n攻撃力が高まり、また敵の体勢を崩しやすい\n"
+        },
+        "engus": {
+            "name": "Cragblade",
+            "caption": "Skill: Cragblade\n\nSkill that manipulates gravity.\nBury the armament in the ground, pulling rocks from the earth to reinforce it. Increases attack power and makes it easier to break enemy stance."
+        },
+        "icon_id": "21062"
+    },
+    "650": {
+        "zhocn": {
+            "name": "野蛮咆哮",
+            "caption": "战技：野蛮咆哮\n\n发出野兽般的咆哮，\n借此激励自己，提升攻击力的战技。\n在战技有效期间内，重攻击会变成野蛮连击。"
+        },
+        "jpnjp": {
+            "name": "野蛮な咆哮",
+            "caption": "戦技「野蛮な咆哮」\n\n獣じみた咆哮を上げ\n自らを鼓舞し、攻撃力を高める戦技\n効果中、強攻撃が野蛮な連撃となる\n"
+        },
+        "engus": {
+            "name": "Barbaric Roar",
+            "caption": "Skill: Barbaric Roar\n\nLet loose a bestial roar to rally the spirit and increase attack power.\nWhile active, strong attacks change to savage combo attacks."
+        },
+        "icon_id": "21050"
+    },
+    "651": {
+        "zhocn": {
+            "name": "战吼",
+            "caption": "战技：战吼\n\n透过咆哮激励自己，提升攻击力的战技。\n在战技有效期间内，重攻击会变成突进攻击。"
+        },
+        "jpnjp": {
+            "name": "ウォークライ",
+            "caption": "戦技「ウォークライ」\n\n咆哮により自らを鼓舞し、攻撃力を高める戦技\n効果中、強攻撃が突進攻撃となる\n"
+        },
+        "engus": {
+            "name": "War Cry",
+            "caption": "Skill: War Cry\n\nGive a war cry to rally the spirit and increase attack power.\nWhile active, strong attacks change to charging attacks."
+        },
+        "icon_id": "21050"
+    },
+    "652": {
+        "zhocn": {
+            "name": "野兽咆哮",
+            "caption": "战技：野兽咆哮\n\n发出野兽般的咆哮，划破空气，\n将咆哮声化成球体释放的战技。"
+        },
+        "jpnjp": {
+            "name": "獣の咆哮",
+            "caption": "戦技「獣の咆哮」\n\n獣じみた咆哮を上げ、空気を切り裂き\nそれを弾丸として前方に放つ戦技\n"
+        },
+        "engus": {
+            "name": "Beast's Roar",
+            "caption": "Skill: Beast's Roar\n\nUnleash a beastly roar, rending the air as a forward-travelling projectile."
+        },
+        "icon_id": "21050"
+    },
+    "653": {
+        "zhocn": {
+            "name": "山妖咆哮",
+            "caption": "战技：山妖咆哮\n\n望向远方发出咆哮，\n能弹飞周围人物，产生冲击波。\n发动后接着使出重攻击，能激烈敲击。"
+        },
+        "jpnjp": {
+            "name": "トロルの咆哮",
+            "caption": "戦技「トロルの咆哮」\n\n彼方を見上げて咆哮し\n周囲を吹き飛ばす、衝撃波を発生させる\nまた、強攻撃で激しい叩きつけに繋げられる\n"
+        },
+        "engus": {
+            "name": "Troll's Roar",
+            "caption": "Skill: Troll's Roar\n\nLook into the distance and let out an intense roar, generating a powerful shockwave that blows back surrounding foes.\nFollow up with a strong attack to slam the armament down."
+        },
+        "icon_id": "21050"
+    },
+    "654": {
+        "zhocn": {
+            "name": "夸耀咆哮",
+            "caption": "战技：夸耀咆哮\n\n犹如夸耀自我般发出咆哮，\n能提升攻击力、防御力、精力恢复速度的战技。"
+        },
+        "jpnjp": {
+            "name": "誇示する咆哮",
+            "caption": "戦技「誇示する咆哮」\n\n自らを誇示するように咆哮し\n攻撃力、防御力、スタミナ回復速度を高める戦技\n"
+        },
+        "engus": {
+            "name": "Braggart's Roar",
+            "caption": "Skill: Braggart's Roar\n\nDeclare your presence with a boastful roar.\nRaises attack power, defense, and stamina recovery speed."
+        },
+        "icon_id": "00000"
+    },
+    "700": {
+        "zhocn": {
+            "name": "忍耐",
+            "caption": "战技：忍耐\n\n心中做好准备放低重心，站稳步伐，\n能瞬间提升强韧度的战技。\n在战技有效期间内，能减轻受到的损伤。"
+        },
+        "jpnjp": {
+            "name": "我慢",
+            "caption": "戦技「我慢」\n\n覚悟と共に腰を落とし踏ん張り\n瞬間的に、強靭度を高める戦技\n我慢中は被ダメージも軽減される\n"
+        },
+        "engus": {
+            "name": "Endure",
+            "caption": "Skill: Endure\n\nAssume an anchored stance to brace for incoming attacks, briefly boosting poise.\nDamage taken while using this skill is reduced."
+        },
+        "icon_id": "00000"
+    },
+    "701": {
+        "zhocn": {
+            "name": "无敌",
+            "caption": "战技：无敌\n\n黄金树的古老战士们使用的战技。\n高举盾牌，让黄金力量充满全身，\n能够瞬间呈现无敌状态。"
+        },
+        "jpnjp": {
+            "name": "無敵",
+            "caption": "戦技「無敵」\n\n黄金樹の古い戦士たちの戦技\n盾を掲げ、黄金の力を身体に纏い\n瞬間的に無敵になる\n"
+        },
+        "engus": {
+            "name": "Vow of the Indomitable",
+            "caption": "Skill: Vow of the Indomitable\n\nSkill of the ancient warriors of the Erdtree.\nHold shield aloft to imbue yourself with golden power, granting momentary invincibility."
+        },
+        "icon_id": "00000"
+    },
+    "702": {
+        "zhocn": {
+            "name": "圣域",
+            "caption": "战技：圣域\n\n高举盾牌，展开黄金树圣域的战技。\n能持续恢复血量，提升防御力，\n圣域内的我方人物也能蒙受相同效果。"
+        },
+        "jpnjp": {
+            "name": "聖域",
+            "caption": "戦技「聖域」\n\n盾を掲げ、黄金樹の聖域を展開する戦技\nＨＰを持続的に回復し、防御力も高める\n聖域内の味方にも同様の効果がある\n"
+        },
+        "engus": {
+            "name": "Holy Ground",
+            "caption": "Skill: Holy Ground\n\nRaise shield to create an Erdtree-consecrated area that continuously restores HP and boosts defense for self and allies inside it."
+        },
+        "icon_id": "21054"
+    },
+    "800": {
+        "zhocn": {
+            "name": "碎步",
+            "caption": "战技：碎步\n\n以速度干扰敌人的战斗者们使用的战技。\n能以轻盈步伐快速移动。\n在锁定目标的状态下使用，能以目标为中心移动。"
+        },
+        "jpnjp": {
+            "name": "クイックステップ",
+            "caption": "戦技「クイックステップ」\n\n機敏さと攪乱で戦う者たちの戦技\n素早くステップ移動する\nターゲット固定状態では、回り込みとなる\n"
+        },
+        "engus": {
+            "name": "Quickstep",
+            "caption": "Skill: Quickstep\n\nSkill prized by the crafty and fleet of foot.\nPerform a quickstep maneuver that allows for circling around lock-on targets."
+        },
+        "icon_id": "21058"
+    },
+    "801": {
+        "zhocn": {
+            "name": "猎犬步法",
+            "caption": "战技：猎犬步法\n\n能瞬间消失身影，以踏步移动的战技。\n移动速度快，距离也长。\n在锁定目标的状态下使用，能以目标为中心移动。"
+        },
+        "jpnjp": {
+            "name": "猟犬のステップ",
+            "caption": "戦技「猟犬のステップ」\n\n一瞬に姿を消し、ステップ移動する戦技\nそれは高速で、また移動距離も長い\nターゲット固定状態では、回り込みとなる\n"
+        },
+        "engus": {
+            "name": "Bloodhound's Step",
+            "caption": "Skill: Bloodhound's Step\n\nSkill that allows the user to become temporarily invisible while dodging at high speed. Moves faster and travels farther than a regular quickstep.\nThis skill can be used to circle around lock-on targets."
+        },
+        "icon_id": "00000"
+    },
+    "802": {
+        "zhocn": {
+            "name": "潜雾猛禽",
+            "caption": "战技：潜雾猛禽\n\n压低身形，瞬间消失身影的战技。\n受到攻击时能长出猛禽翅膀，\n瞬间一跃而起。"
+        },
+        "jpnjp": {
+            "name": "霧の猛禽",
+            "caption": "戦技「霧の猛禽」\n\n体を沈め、瞬間的に姿を消す戦技\n攻撃を受けると、猛禽の羽を生じ\n一瞬に空に飛ぶ\n"
+        },
+        "engus": {
+            "name": "Raptor of the Mists",
+            "caption": "Skill: Raptor of the Mists\n\nDuck into a low stance, momentarily vanishing.\nIf an enemy attack connects, avian wings will allow for a quick escape into the air."
+        },
+        "icon_id": "00000"
+    },
+    "850": {
+        "zhocn": {
+            "name": "白影诱惑",
+            "caption": "战技：白影诱惑\n\n对着武器发愿，在自身前方形成白色影子。\n能吸引非战斗状态，为人类之身的敌人注意，\n引诱对方攻击的战技。但对上亚人时，\n即使对方在战斗状态，也具有诱敌效用。"
+        },
+        "jpnjp": {
+            "name": "白い影の誘い",
+            "caption": "戦技「白い影の誘い」\n\n武器に念じ、前方に白い影を生じ\n戦闘状態にない人の類を引き寄せ、攻撃を誘う戦技\n亜人に対しては、戦闘状態であっても効果がある\n"
+        },
+        "engus": {
+            "name": "White Shadow's Lure",
+            "caption": "Skill: White Shadow's Lure\n\nHold armament in a brief, silent prayer to create a white shadow.\nThe apparition lures in foes of human build who are not in combat, drawing their aggression. Effective on demi-humans even if they are already in a combat state."
+        },
+        "icon_id": "00000"
+    },
+    "1000": {
+        "zhocn": {
+            "name": "信仰喷发",
+            "caption": "专用战技：信仰喷发\n\n在尊容火杯里，燃烧彼拉克的信仰火焰，\n再将火杯向上突刺，喷发大量火焰的战技。\n再次发动能多次向上突刺。"
+        },
+        "jpnjp": {
+            "name": "噴き上がる信仰",
+            "caption": "専用戦技「噴き上がる信仰」\n\n尊顔の盃に、ビラクの信仰の炎を燃やし\nそれを突き上げ、大量の火を噴き上げる戦技\n追加入力で、何度でも突き上げる\n"
+        },
+        "engus": {
+            "name": "Surge of Faith",
+            "caption": "Unique Skill: Surge of Faith\n\nSet the flames of Birac's faith ablaze in the cranial vessel, then raise it aloft to rain down fireballs in all directions.\nRepeated inputs will continue to raise the armament aloft, continuing the attack."
+        },
+        "icon_id": "21000"
+    },
+    "1001": {
+        "zhocn": {
+            "name": "火焰唾球",
+            "caption": "专用战技：火焰唾球\n\n举起盾牌，从炮管发射火焰球的战技。\n火焰球会在命中后爆炸。"
+        },
+        "jpnjp": {
+            "name": "炎の唾",
+            "caption": "専用戦技「炎の唾」\n\n盾を構え、砲身から火の玉を放つ戦技\n火の玉は、着弾により爆発する\n"
+        },
+        "engus": {
+            "name": "Flame Spit",
+            "caption": "Unique Skill: Flame Spit\n\nReady the shield, then launch a fireball from the barrel.\nThe fireball explodes on impact."
+        },
+        "icon_id": "21000"
+    },
+    "1002": {
+        "zhocn": {
+            "name": "火焰舌柱",
+            "caption": "专用战技：火焰舌柱\n\n举起盾牌，从舌尖喷出猛烈火焰的战技。\n持续发动的期间能持续喷出火焰，\n也能在发动战技时走动。"
+        },
+        "jpnjp": {
+            "name": "火炎舌",
+            "caption": "専用戦技「火炎舌」\n\n盾を構え、舌先から炎を激しく噴射する戦技\n長押ししている間、炎を噴射し続け\nまた、そのまま歩くこともできる\n"
+        },
+        "engus": {
+            "name": "Tongues of Fire",
+            "caption": "Unique Skill: Tongues of Fire\n\nReady the shield, then spray violent jets of fire from the tongues protruding from its maw.\nHold to continue spraying fire. This skill can be used while walking."
+        },
+        "icon_id": "21000"
+    },
+    "1003": {
+        "zhocn": {
+            "name": "神谕泡泡",
+            "caption": "专用战技：神谕泡泡\n\n吹奏笛子，释放魔力泡泡的战技。\n泡泡会缓缓飘动，并朝目标飞去。"
+        },
+        "jpnjp": {
+            "name": "神託のシャボン",
+            "caption": "専用戦技「神託のシャボン」\n\n笛を吹き、魔力のシャボンを放つ戦技\nシャボンはゆっくりと飛びながら\n目標にふわふわと向かっていく\n"
+        },
+        "engus": {
+            "name": "Oracular Bubble",
+            "caption": "Unique Skill: Oracular Bubble\n\nBlow on the horn to release a magic bubble.\nThe bubble floats gently through the air towards its target."
+        },
+        "icon_id": "21000"
+    },
+    "1004": {
+        "zhocn": {
+            "name": "倾注泡泡",
+            "caption": "专用战技：倾注泡泡\n\n吹奏笛子，释放大量魔力泡泡的战技。\n泡泡会缓缓飘动，并朝目标倾注而下。"
+        },
+        "jpnjp": {
+            "name": "降り注ぐシャボン",
+            "caption": "専用戦技「降り注ぐシャボン」\n\n笛を吹き、魔力のシャボンを大量に放つ戦技\nシャボンはゆっくりと飛びながら、降り注ぐ\n"
+        },
+        "engus": {
+            "name": "Bubble Shower",
+            "caption": "Unique Skill: Bubble Shower\n\nBlow on the horn to release a spume of magic bubbles.\nThe bubbles float gently before raining down on the target."
+        },
+        "icon_id": "21000"
+    },
+    "1005": {
+        "zhocn": {
+            "name": "神谕大泡泡",
+            "caption": "专用战技：神谕大泡泡\n\n吹奏笛子，释放魔力大泡泡的战技。\n大泡泡会缓缓飘动，并朝目标飞去。"
+        },
+        "jpnjp": {
+            "name": "神託の大シャボン",
+            "caption": "専用戦技「神託の大シャボン」\n\n笛を吹き、魔力の大シャボンを放つ戦技\n大シャボンはゆっくりと飛びながら\n目標にふわふわと向かっていく\n"
+        },
+        "engus": {
+            "name": "Great Oracular Bubble",
+            "caption": "Unique Skill: Great Oracular Bubble\n\nBlow on the horn to release a massive magic bubble.\nThe bubble floats gently through the air towards its target."
+        },
+        "icon_id": "21000"
+    },
+    "1006": {
+        "zhocn": {
+            "name": "熔岩海",
+            "caption": "专用战技：熔岩海\n\n能大幅挥动熔岩鞭子，\n暂时在自身周围形成熔岩海的战技。\n持续发动的时间，能持续挥舞熔岩鞭子。"
+        },
+        "jpnjp": {
+            "name": "溶岩の海",
+            "caption": "専用戦技「溶岩の海」\n\n溶岩の鞭を大きく振り回し\n一時、自分の周りに溶岩の海を生じる戦技\n長押ししている間、鞭を振り回し続ける\n"
+        },
+        "engus": {
+            "name": "Sea of Magma",
+            "caption": "Unique Skill: Sea of Magma\n\nSwing a molten whip overhead to temporarily cover the surrounding area in a sea of magma.\nHold to continue swinging the lava whip."
+        },
+        "icon_id": "21000"
+    },
+    "1007": {
+        "zhocn": {
+            "name": "毒蛇咬杀",
+            "caption": "专用战技：毒蛇咬杀\n\n轻轻摇动盾牌，\n暂时赋予青铜制毒蛇生命，\n让毒蛇伸长身体，咬向敌人的战技。"
+        },
+        "jpnjp": {
+            "name": "毒蛇の噛みつき",
+            "caption": "専用戦技「毒蛇の噛みつき」\n\n盾をゆっくりと揺らし\n青銅の毒蛇に一時の生命を与え\n首を伸ばし、噛みつかせる戦技\n"
+        },
+        "engus": {
+            "name": "Viper Bite",
+            "caption": "Unique Skill: Viper Bite\n\nGive the shield a quick shake to temporarily bring the bronze viper to life, inciting it to lash out and bite foes."
+        },
+        "icon_id": "21000"
+    },
+    "1008": {
+        "zhocn": {
+            "name": "月光剑",
+            "caption": "专用战技：月光剑\n\n高举剑，让整把剑发出暗月月光的战技。\n能暂时提升魔力属性攻击力，\n让剑身缠绕冻伤寒气。\n蓄力攻击能释放月光波。"
+        },
+        "jpnjp": {
+            "name": "月光剣",
+            "caption": "専用戦技「月光剣」\n\n剣を掲げ、暗月の月光を輝かせる戦技\n魔力攻撃力を一時的に高め、剣身に冷気を纏う\nまた、タメ攻撃で月光の光波を放つ\n"
+        },
+        "engus": {
+            "name": "Moonlight Greatsword",
+            "caption": "Unique Skill: Moonlight Greatsword\n\nRaise the sword aloft, bathing it in the light of the dark moon.\nTemporarily increases magic attack power and imbues blade with frost.\nCharged attacks release blasts of moonlight."
+        },
+        "icon_id": "21000"
+    },
+    "1009": {
+        "zhocn": {
+            "name": "志留亚的漩涡",
+            "caption": "专用战技：志留亚的漩涡\n\n旋转树矛、缠绕风流漩涡，再使出突刺的战技。\n借由蓄力发动，会变得具有弹飞敌人的威力，\n也能朝前方释放风流漩涡。"
+        },
+        "jpnjp": {
+            "name": "シルリアの渦",
+            "caption": "専用戦技「シルリアの渦」\n\n樹槍を回転させ、風の渦を纏って突き出す戦技\nタメ使用で、敵を吹き飛ばす威力を持ち\nまた、風の渦を前方に放つことができる\n"
+        },
+        "engus": {
+            "name": "Siluria's Woe",
+            "caption": "Unique Skill: Siluria's Woe\n\nThrust the weapon in a spiraling motion, surrounding it in a vortex of wind.\nCharged attacks have the power to blow away enemies and can fire the tornado forwards."
+        },
+        "icon_id": "21000"
+    },
+    "1010": {
+        "zhocn": {
+            "name": "归于麾下",
+            "caption": "专用战技：归于麾下\n\n高举军旗，以勇猛姿态发出号令的战技。\n能提升自身与周围我方人物的攻击力、防御力。"
+        },
+        "jpnjp": {
+            "name": "軍旗の下に",
+            "caption": "専用戦技「軍旗の下に」\n\n軍旗を掲げ、勇ましく号令をかける戦技\n自らと周囲の味方の、攻撃力と防御力を高める\n"
+        },
+        "engus": {
+            "name": "Rallying Standard",
+            "caption": "Unique Skill: Rallying Standard\n\nHoist the war banner aloft and give a rallying command.\nRaises attack power and defense for self and nearby allies."
+        },
+        "icon_id": "21000"
+    },
+    "1011": {
+        "zhocn": {
+            "name": "敬请见证！",
+            "caption": "专用战技：敬请见证！\n\n暂时赋予小型龙生命，高举指向天空，\n朝前方大范围落下龙焰的战技。"
+        },
+        "jpnjp": {
+            "name": "ご照覧あれい！",
+            "caption": "専用戦技「ご照覧あれい！」\n\n小さな竜に、一時の生命を与え\nそれを天に突き上げることで\n竜の炎を、前方広範囲に降らせる戦技\n"
+        },
+        "engus": {
+            "name": "Bear Witness!",
+            "caption": "Unique Skill: Bear Witness!\n\nGrant the small dragon a fleeting glimpse of life and thrust it skyward, spewing flames over a wide frontward area."
+        },
+        "icon_id": "21000"
+    },
+    "1012": {
+        "zhocn": {
+            "name": "欧赫剑舞",
+            "caption": "专用战技：欧赫剑舞\n\n把气灌入剑中，旋转之后朝前方释放的战技。\n整把剑会剧烈旋转，给予连续伤害。\n借由蓄力发动，能提升飞翔距离与旋转时间。"
+        },
+        "jpnjp": {
+            "name": "エオヒドの剣舞",
+            "caption": "専用戦技「エオヒドの剣舞」\n\n剣に気を宿し、捻りを加え前方に放つ戦技\nその剣は激しく回転し、連続でダメージを与える\nタメ使用で飛距離を増し、回転の持続時間も増す\n"
+        },
+        "engus": {
+            "name": "Eochaid's Dancing Blade",
+            "caption": "Unique Skill: Eochaid's Dancing Blade\n\nInfuse the sword with energy, then fling it forwards in a corkscrew attack. The sword continuously deals damage while violently spinning.\nCharge the attack to increase reach and duration of the spin."
+        },
+        "icon_id": "21000"
+    },
+    "1013": {
+        "zhocn": {
+            "name": "恶意气息",
+            "caption": "专用战技：恶意气息\n\n高举展翼大角，招来恶意气息的战技。\n能暂时降低周围敌人的防御力。"
+        },
+        "jpnjp": {
+            "name": "霊障招き",
+            "caption": "専用戦技「霊障招き」\n\n大角の翼を掲げ、霊障を招く戦技\n周囲の敵の防御力を一時的に低下させる\n"
+        },
+        "engus": {
+            "name": "Soul Stifler",
+            "caption": "Unique Skill: Soul Stifler\n\nRaise the greathorn's wings to summon a soul-sapping miasma.\nEnemies in the affected area will temporarily suffer from reduced defense."
+        },
+        "icon_id": "21000"
+    },
+    "1014": {
+        "zhocn": {
+            "name": "掠夺火焰",
+            "caption": "专用战技：掠夺火焰\n\n高举圣剑，燃起亵渎火焰，\n再朝前方释放烈火的战技。\n火焰会夺取血量。"
+        },
+        "jpnjp": {
+            "name": "略奪の炎",
+            "caption": "専用戦技「略奪の炎」\n\n聖剣を掲げ、冒涜の炎を燃やし\n激しく前方に放つ戦技\nその炎は、ＨＰを奪う\n"
+        },
+        "engus": {
+            "name": "Taker's Flames",
+            "caption": "Unique Skill: Taker's Flames\n\nRaise the sacred sword aloft to set it ablaze with blasphemous flames, then bring it down to fire off a forward blast.\nThe flames steal HP from those they touch."
+        },
+        "icon_id": "21000"
+    },
+    "1015": {
+        "zhocn": {
+            "name": "灭洛斯的狂嚎",
+            "caption": "专用战技：灭洛斯的狂嚎\n\n发出带有诅咒的恐怖狂嚎，\n让周围的敌人降低所有属性的减伤率、\n所有异常状态的抵抗力。\n在战技有效期间内，重攻击会变成连击。"
+        },
+        "jpnjp": {
+            "name": "ミエロスの絶叫",
+            "caption": "専用戦技「ミエロスの絶叫」\n\n呪われた、おぞましい絶叫を上げ\n周囲の敵の、すべての属性カット率と\nすべての状態異常耐性を低下させる戦技\nまた効果中、強攻撃が連撃となる\n"
+        },
+        "engus": {
+            "name": "Shriek of Milos",
+            "caption": "Unique Skill: Shriek of Milos\n\nLets out a horrific cursed scream that reduces all damage negation and status resistances for nearby foes.\nWhile active, strong attacks will change to a combo attack."
+        },
+        "icon_id": "21000"
+    },
+    "1016": {
+        "zhocn": {
+            "name": "逆刺血刃",
+            "caption": "专用战技：逆刺血刃\n\n将锯齿状剑刃上的湿漉鲜血，\n化为引发出血的刀刃，释放而出的战技。\n可以连续施放。"
+        },
+        "jpnjp": {
+            "name": "レドゥビアの血刃",
+            "caption": "専用戦技「レドゥビアの血刃」\n\nぎざ刃の乾かぬ血濡れを\n出血を強いる刃となし放つ戦技\n連続で放つことができる\n"
+        },
+        "engus": {
+            "name": "Reduvia Blood Blade",
+            "caption": "Unique Skill: Reduvia Blood Blade\n\nSlash with the wicked dagger, transforming its never-drying bloodstains into airborne blades that cause blood loss.\nCan be fired in rapid succession."
+        },
+        "icon_id": "21000"
+    },
+    "1017": {
+        "zhocn": {
+            "name": "辉石彗砾",
+            "caption": "专用战技：辉石彗砾\n\n能施展魔法“辉石魔砾”的战技。\n借由蓄力发动，能变成“辉石彗砾”。\n发动后接着使出重攻击，\n能大幅向前跨出，再突刺攻击，"
+        },
+        "jpnjp": {
+            "name": "輝石の彗礫",
+            "caption": "専用戦技「輝石の彗礫」\n\n「輝石のつぶて」の魔術を用いる戦技\nタメ使用で、それは「輝石の彗礫」となる\nまた強攻撃で、大きく踏み込む突きに繋げられる\n"
+        },
+        "engus": {
+            "name": "Glintstone Dart",
+            "caption": "Unique Skill: Glintstone Dart\n\nSkill that builds from the Glintstone Pebble sorcery.\nCharge the skill to upgrade it to Glintstone Dart.\nFollow up with a strong attack to chain this skill into a lunging thrust."
+        },
+        "icon_id": "21000"
+    },
+    "1018": {
+        "zhocn": {
+            "name": "流体化",
+            "caption": "专用战技：流体化\n\n让武器暂时化为流体的战技。\n能像软鞭般挥动，大范围横扫敌人。"
+        },
+        "jpnjp": {
+            "name": "流体化",
+            "caption": "専用戦技「流体化」\n\n武器を一時的に流体となす戦技\n鞭のように振るい、広範囲を斬り払う\n"
+        },
+        "engus": {
+            "name": "Flowing Form",
+            "caption": "Unique Skill: Flowing Form\n\nTemporarily transforms armament into its liquid form.\nSwing the armament like a whip to perform a sweeping slice over a wide area."
+        },
+        "icon_id": "21000"
+    },
+    "1019": {
+        "zhocn": {
+            "name": "夜与火的架式",
+            "caption": "专用战技：夜与火的架式\n\n举起剑与地面平行，接着施展魔法的战技。\n轻攻击能将魔力化为“黑夜彗星”释放；\n重攻击能用火焰大范围横扫前方。"
+        },
+        "jpnjp": {
+            "name": "夜と炎の構え",
+            "caption": "専用戦技「夜と炎の構え」\n\n剣を水平に構え、魔術に繋げる戦技\n通常攻撃で、魔力を夜の彗星として放ち\n強攻撃で、前方広範囲を炎で薙ぎ払う\n"
+        },
+        "engus": {
+            "name": "Night-and-Flame Stance",
+            "caption": "Unique Skill: Night-and-Flame Stance\n\nHold the sword level and prepare to cast a sorcery.\nFollow up with a normal attack to cast the Night Comet sorcery, or a strong attack to sweep forward with a burst of flames."
+        },
+        "icon_id": "21000"
+    },
+    "1020": {
+        "zhocn": {
+            "name": "黄金波动",
+            "caption": "专用战技：黄金波动\n\n将剑身寄宿旧时的黄金，接着释放的战技。\n黄金波动会朝前方扇状大幅扩散，\n横扫所有敌人。"
+        },
+        "jpnjp": {
+            "name": "黄金波",
+            "caption": "専用戦技「黄金波」\n\n剣身に往時の黄金を宿し、放つ戦技\n黄金の波は、前方扇状に大きく広がり\nあらゆる敵を薙ぎ払う\n"
+        },
+        "engus": {
+            "name": "Wave of Gold",
+            "caption": "Unique Skill: Wave of Gold\n\nImbue the sword with bygone golden glory, then fire it at foes.\nA wide, golden wave fans out forwards, sweeping through all enemies caught in its path."
+        },
+        "icon_id": "21000"
+    },
+    "1021": {
+        "zhocn": {
+            "name": "毁灭灵火",
+            "caption": "专用战技：毁灭灵火\n\n挥动剑，让剑身缠绕灵火的战技。\n灵火能给予魔力属性伤害。\n此外，灵火非常地冰冷。"
+        },
+        "jpnjp": {
+            "name": "滅びの霊炎",
+            "caption": "専用戦技「滅びの霊炎」\n\n剣を振り、その刀身に霊炎を纏わせる戦技\n霊炎は魔力属性のダメージを与え\nまた、とても冷たい\n"
+        },
+        "engus": {
+            "name": "Ruinous Ghostflame",
+            "caption": "Unique Skill: Ruinous Ghostflame\n\nSwing the sword to bathe its blade in ghostflame.\nThe ghostflame adds magic damage to attacks, and also has a bitterly cold bite."
+        },
+        "icon_id": "21000"
+    },
+    "1022": {
+        "zhocn": {
+            "name": "高举黄金律法",
+            "caption": "专用战技：高举黄金律法\n\n敬礼的同时高举武器，\n形成黄金爆炸的战技。\n再次发动，能释放黄金光波。"
+        },
+        "jpnjp": {
+            "name": "黄金律掲揚",
+            "caption": "専用戦技「黄金律掲揚」\n\n敬礼と共に武器を掲揚し\n黄金の炸裂を生じる戦技\n追加入力で、黄金の光波を放つ\n"
+        },
+        "engus": {
+            "name": "Establish Order",
+            "caption": "Unique Skill: Establish Order\n\nRaise the armament in a salute, releasing a golden explosion.\nRepeated inputs send out waves of golden light."
+        },
+        "icon_id": "21000"
+    },
+    "1023": {
+        "zhocn": {
+            "name": "催眠烟雾",
+            "caption": "专用战技：催眠烟雾\n\n朝前方形成大范围淡紫色烟雾的战技。\n淡紫色烟雾具有引发异常状态催眠的效果。"
+        },
+        "jpnjp": {
+            "name": "眠りの霧",
+            "caption": "専用戦技「眠りの霧」\n\n前方広範囲に、薄紫の霧を生じる戦技\nその霧には、睡眠の状態異常効果がある\n"
+        },
+        "engus": {
+            "name": "Mists of Slumber",
+            "caption": "Unique Skill: Mists of Slumber\n\nReleases a faint purple mist that spreads across a wide frontwards area.\nThis mist inflicts the sleep ailment upon foes."
+        },
+        "icon_id": "21000"
+    },
+    "1024": {
+        "zhocn": {
+            "name": "唤矛仪式",
+            "caption": "专用战技：唤矛仪式\n\n祈祷的同时高举矛，指向天空，\n召唤倾注而下的无数灵矛的战技。"
+        },
+        "jpnjp": {
+            "name": "槍呼びの儀",
+            "caption": "専用戦技「槍呼びの儀」\n\n祈りと共に槍を空に突き上げ\n降り注ぐ、無数の霊槍を呼ぶ戦技\n"
+        },
+        "engus": {
+            "name": "Spearcall Ritual",
+            "caption": "Unique Skill: Spearcall Ritual\n\nThrust the spear high, bearing prayers into the sky to summon a downpour of spectral spears."
+        },
+        "icon_id": "21000"
+    },
+    "1025": {
+        "zhocn": {
+            "name": "狼袭",
+            "caption": "专用战技：狼袭\n\n剑身缠绕寒气，一边旋身一边向前跳，\n再顺势将大剑刺入地面的战技。\n拔起大剑的同时，会引发寒气爆炸。"
+        },
+        "jpnjp": {
+            "name": "狼の襲撃",
+            "caption": "専用戦技「狼の襲撃」\n\n剣身に冷気を纏い、回転しながら前方に跳躍し\nその勢いのまま、大剣を地に突き立てる戦技\nそれを引き抜く時、冷気の爆発を伴う\n"
+        },
+        "engus": {
+            "name": "Wolf's Assault",
+            "caption": "Unique Skill: Wolf's Assault\n\nInfuse the greatsword with frost, then perform a forward somersault to plunge it into the ground. Then, pull it out to release a cold blast."
+        },
+        "icon_id": "21000"
+    },
+    "1026": {
+        "zhocn": {
+            "name": "雷云化身",
+            "caption": "专用战技：雷云化身\n\n自己暂时化为红色雷云，飞上空中，\n再用缠绕雷电的剑身贯穿敌人的战技。\n持续发动能增加在空中移动的距离。"
+        },
+        "jpnjp": {
+            "name": "雷雲の姿",
+            "caption": "専用戦技「雷雲の姿」\n\n自らの姿を一時赤い雷雲と化し\n空を駆け、雷を纏った剣身で貫く戦技\n長押しで、空を駆ける距離が伸びる\n"
+        },
+        "engus": {
+            "name": "Thundercloud Form",
+            "caption": "Unique Skill: Thundercloud Form\n\nTemporarily transform into a red thundercloud and fly through the air, then plunge down with a lightning-infused blade.\nHold to increase the reach of the thundercloud form."
+        },
+        "icon_id": "21000"
+    },
+    "1027": {
+        "zhocn": {
+            "name": "咒血斩击",
+            "caption": "专用战技：咒血斩击\n\n摆出架式后一口气向前冲，使出下砍的战技。\n下砍后的鲜血剑光会伴随较晚引发的火焰爆炸。\n再次发动能使出追击。"
+        },
+        "jpnjp": {
+            "name": "呪血の斬撃",
+            "caption": "専用戦技「呪血の斬撃」\n\n構えから一気に踏み込み、斬り下ろす戦技\nその血の剣閃は、一瞬遅れて炎の爆発を伴う\nまた、追加入力で追撃に繋げられる\n"
+        },
+        "engus": {
+            "name": "Cursed-Blood Slice",
+            "caption": "Unique Skill: Cursed-Blood Slice\n\nBrace, then charge forward to deliver a downward diagonal slice.\nThe bloody trail of the blade is followed by a burst of flame.\nAdditional input allows for a follow-up attack."
+        },
+        "icon_id": "21000"
+    },
+    "1028": {
+        "zhocn": {
+            "name": "水鸟乱舞",
+            "caption": "专用战技：水鸟乱舞\n\n犹如水鸟般单脚跳跃，\n再使出超高速连斩的战技。\n再次发动，能使出最多两次的追击。"
+        },
+        "jpnjp": {
+            "name": "水鳥乱舞",
+            "caption": "専用戦技「水鳥乱舞」\n\n水鳥のごとく一本足で跳び\n超高速の連続斬りに繋げる戦技\n追加入力で、二度まで追撃に繋げられる\n"
+        },
+        "engus": {
+            "name": "Waterfowl Dance",
+            "caption": "Unique Skill: Waterfowl Dance\n\nPerform a series of one-footed leaps in the manner of a waterfowl to unleash a swift yet graceful slashing combo.\nRepeated inputs allow for up to two follow-up attacks."
+        },
+        "icon_id": "21000"
+    },
+    "1029": {
+        "zhocn": {
+            "name": "黄金碎击",
+            "caption": "专用战技：黄金碎击\n\n轻盈跳起，让卢恩碎片蕴藏光芒，\n再从空中用力敲下的战技。\n拉达冈英雄般的敲击。"
+        },
+        "jpnjp": {
+            "name": "黄金砕き",
+            "caption": "専用戦技「黄金砕き」\n\nふわりと跳躍し、ルーンの破片に光を宿し\nそれを空中から、思い切り叩きつける戦技\nラダゴンの英雄的殴打\n"
+        },
+        "engus": {
+            "name": "Gold Breaker",
+            "caption": "Unique Skill: Gold Breaker\n\nLeap up high and, while suspended in midair, imbue the rune shard with light before smashing it down hard onto the ground.\nThe heroic Radagon's signature attack."
+        },
+        "icon_id": "21000"
+    },
+    "1030": {
+        "zhocn": {
+            "name": "跪下吧！",
+            "caption": "专用战技：跪下吧！\n\n将王斧连续刺向地面，产生冲击波之余，\n也撼动地面两次的战技。\n再次发动，能再一次剧烈撼动地面。"
+        },
+        "jpnjp": {
+            "name": "地に伏せよ！",
+            "caption": "専用戦技「地に伏せよ！」\n\n王斧を地面に連続で突き立て\n衝撃波と共に、大地を二度揺らす戦技\n追加入力で、もう一度激しく大地を揺らす\n"
+        },
+        "engus": {
+            "name": "I Command Thee, Kneel!",
+            "caption": "Unique Skill: I Command Thee, Kneel!\n\nRepeatedly smash the Axe of Godrick into the ground, unleashing two earth-shaking shockwaves.\nFollow up with an additional input to produce a third shockwave."
+        },
+        "icon_id": "21000"
+    },
+    "1031": {
+        "zhocn": {
+            "name": "王者嘶吼",
+            "caption": "专用战技：王者嘶吼\n\n发出嘶吼，提升攻击力的战技。\n踏地时的冲击波无法用防御挡下。\n在战技有效时间内，\n重攻击会变成前踏斩击。"
+        },
+        "jpnjp": {
+            "name": "王の雄叫び",
+            "caption": "専用戦技「王の雄叫び」\n\n雄叫びを上げ、攻撃力を高める戦技\n大地を踏む衝撃波はガードすることができず\n効果中、強攻撃が踏み込み斬りとなる\n"
+        },
+        "engus": {
+            "name": "Regal Roar",
+            "caption": "Unique Skill: Regal Roar\n\nLet loose a mighty war cry, raising attack power, while sending out a shockwave that cannot be guarded against by stomping the ground. While active, strong attack becomes a lunging slash."
+        },
+        "icon_id": "21000"
+    },
+    "1032": {
+        "zhocn": {
+            "name": "唤星",
+            "caption": "专用战技：唤星\n\n双剑交错、指向天空的同时发出嘶吼，\n利用重力波拉近敌人的战技。\n再次发动，能用缠绕重力的剑使出敲击。"
+        },
+        "jpnjp": {
+            "name": "星呼び",
+            "caption": "専用戦技「星呼び」\n\n両の剣を合わせた後、空に雄叫び\n重力波により、敵を引き寄せる戦技\n追加入力で、重力を纏った剣を叩きつける\n"
+        },
+        "engus": {
+            "name": "Starcaller Cry",
+            "caption": "Unique Skill: Starcaller Cry\n\nBring the two swords together and roar into the skies, pulling in enemies with a gravitational wave.\nFollow up with an additional input to slam down with gravity-infused swords."
+        },
+        "icon_id": "21000"
+    },
+    "1033": {
+        "zhocn": {
+            "name": "崩坏波",
+            "caption": "专用战技：崩坏波\n\n高举剑之后向下敲，\n释放于地面爬行的重力波的战技。"
+        },
+        "jpnjp": {
+            "name": "崩壊波",
+            "caption": "専用戦技「崩壊波」\n\n剣を掲げた後、それを叩きつけ\n地を走る重力波を放つ戦技\n"
+        },
+        "engus": {
+            "name": "Wave of Destruction",
+            "caption": "Unique Skill: Wave of Destruction\n\nRaise the sword up high, then strike it against the ground to fire off a wave of gravitational force."
+        },
+        "icon_id": "21000"
+    },
+    "1034": {
+        "zhocn": {
+            "name": "授血仪式",
+            "caption": "专用战技：授血仪式\n\n高举圣矛，刺进无形之母体内的战技。\n最多能刺三次，每次都会引发鲜血爆炸。\n缠绕圣矛上的血焰会暂时延续。"
+        },
+        "jpnjp": {
+            "name": "血授の儀",
+            "caption": "専用戦技「血授の儀」\n\n聖槍を掲げ、姿なき母の身体を刺す戦技\n三度まで刺し、刺す度に血の爆発を生じる\n聖槍は血炎を纏い、それはしばらく継続する\n"
+        },
+        "engus": {
+            "name": "Bloodboon Ritual",
+            "caption": "Unique Skill: Bloodboon Ritual\n\nRaise the sacred spear and pierce the body of the Formless Mother. Stab up to three times, creating explosions of blood with each thrust.\nThis skill will coat the armament with bloodflame for a while."
+        },
+        "icon_id": "21000"
+    },
+    "1035": {
+        "zhocn": {
+            "name": "流体化",
+            "caption": "专用战技：流体化\n\n让武器暂时化为流体的战技。\n能大幅挥动，大范围横扫敌人，\n再用泪滴状的打击部位向下敲。"
+        },
+        "jpnjp": {
+            "name": "流体化",
+            "caption": "専用戦技「流体化」\n\n武器を一時的に流体となす戦技\n大きく振り回し、周囲を薙ぎ払った後\n滴状の打撃部を叩きつける\n"
+        },
+        "engus": {
+            "name": "Flowing Form",
+            "caption": "Unique Skill: Flowing Form\n\nTemporarily transforms armament into its liquid form. Swing the armament like a whip to strike surroundings before slamming its teardrop-shaped head down."
+        },
+        "icon_id": "21000"
+    },
+    "1036": {
+        "zhocn": {
+            "name": "死亡刀刃",
+            "caption": "专用战技：死亡刀刃\n\n解放死亡卢恩的力量，\n将力量化为刀刃后释放的战技。\n给予敌人伤害的同时，也会减少血量上限，\n并且在一定时间内，血量会持续减少。"
+        },
+        "jpnjp": {
+            "name": "死の刃",
+            "caption": "専用戦技「死の刃」\n\n死のルーンの力を解放し、刃となして放つ戦技\nダメージを与えると共に、最大ＨＰを減少させ\nしばらくの間ＨＰを削り続ける\n"
+        },
+        "engus": {
+            "name": "Blade of Death",
+            "caption": "Unique Skill: Blade of Death\n\nUnleash the power of the Rune of Death to fire off a blade-like projectile.\nIn addition to dealing immediate damage, the blade reduces the enemy's maximum HP and continues to wear down HP for a while."
+        },
+        "icon_id": "21000"
+    },
+    "1037": {
+        "zhocn": {
+            "name": "黄金刀刃",
+            "caption": "专用战技：黄金刀刃\n\n跳至空中，让武器缠绕黄金火焰，\n将火焰化为刀刃后释放的战技。\n能给予圣属性伤害。"
+        },
+        "jpnjp": {
+            "name": "黄金の刃",
+            "caption": "専用戦技「黄金の刃」\n\n宙に跳び、武器に黄金の炎を纏わせ\nそれを刃となして放つ戦技\n聖属性のダメージを与える\n"
+        },
+        "engus": {
+            "name": "Blade of Gold",
+            "caption": "Unique Skill: Blade of Gold\n\nLeap into the air, charging the armament with golden flames that are then shot at the enemy as a single, blade-like projectile.\nInflicts holy damage."
+        },
+        "icon_id": "21000"
+    },
+    "1038": {
+        "zhocn": {
+            "name": "命定之死",
+            "caption": "专用战技：命定之死\n\n解放命定之死残留的碎屑，\n将大剑刺向地面，形成无数刀刃的战技。\n给予敌人伤害的同时，也会减少血量上限，\n并且在短暂时间内，血量会些微持续减少。"
+        },
+        "jpnjp": {
+            "name": "運命の死",
+            "caption": "専用戦技「運命の死」\n\n運命の死、その残滓を解放し\n大剣を地に突き立て、無数の刃を生じる戦技\nダメージを与えると共に、最大ＨＰを減少させ\nごく短時間の間、ＨＰを細かく削り続ける\n"
+        },
+        "engus": {
+            "name": "Destined Death",
+            "caption": "Unique Skill: Destined Death\n\nSet free the remnants of Destined Death, plunging the greatsword into the ground to summon a myriad of blades. In addition to dealing immediate damage, this attack reduces the enemy's maximum HP and continues to wear down HP for a short time."
+        },
+        "icon_id": "21000"
+    },
+    "1039": {
+        "zhocn": {
+            "name": "旋转刺轮",
+            "caption": "专用战技：旋转刺轮\n\n摩擦地面，让刺轮高速旋转的战技。\n持续发动能让刺轮维持高速旋转，\n也能直接移动，将刺轮推向敌人。"
+        },
+        "jpnjp": {
+            "name": "車輪回転",
+            "caption": "専用戦技「車輪回転」\n\n地面を擦り、高速で車輪を回転させる戦技\n長押しで、高速回転状態を維持することができ\nそのまま歩き、敵に車輪を押し当てることもできる\n"
+        },
+        "engus": {
+            "name": "Spinning Wheel",
+            "caption": "Unique Skill: Spinning Wheel\n\nStrike the wheel against the ground to set it spinning at top speed. Hold to keep the wheel spinning. Can be used while walking to push the armament into enemies."
+        },
+        "icon_id": "21000"
+    },
+    "1040": {
+        "zhocn": {
+            "name": "白王引力波",
+            "caption": "专用战技：白王引力波\n\n将武器刺入地面，产生重力波，\n能给予敌人伤害，同时将对方拉近自己的战技。\n与战技“重力”相比，有效范围更广。"
+        },
+        "jpnjp": {
+            "name": "白王の引力波",
+            "caption": "専用戦技「白王の引力波」\n\n武器を地面に刺し、重力波を発生させ\nダメージを与えると共に、敵を引き寄せる戦技\n「グラビタス」よりも有効範囲が広い\n"
+        },
+        "engus": {
+            "name": "Alabaster Lords' Pull",
+            "caption": "Unique Skill: Alabaster Lord's Pull\n\nThrust the armament into the ground to create a gravity well. In addition to dealing damage, this attack pulls enemies in.\nHas a greater area of effect than Gravitas."
+        },
+        "icon_id": "21000"
+    },
+    "1041": {
+        "zhocn": {
+            "name": "黑王推力波",
+            "caption": "专用战技：黑王推力波\n\n将武器刺入地面，产生重力波，\n能给予敌人伤害，同时将对方弹飞的战技。"
+        },
+        "jpnjp": {
+            "name": "黒王の斥力波",
+            "caption": "専用戦技「黒王の斥力波」\n\n武器を地面に刺し、重力波を発生させ\nダメージを与えると共に、敵を弾き飛ばす戦技\n"
+        },
+        "engus": {
+            "name": "Onyx Lords' Repulsion",
+            "caption": "Unique Skill: Onyx Lord's Repulsion\n\nThrust the armament into the ground to create a gravity well. In addition to dealing damage, this attack sends enemies flying away."
+        },
+        "icon_id": "21000"
+    },
+    "1042": {
+        "zhocn": {
+            "name": "复仇誓言",
+            "caption": "专用战技：复仇誓言\n\n对大剑立下为一族复仇的誓言，\n一定时间内，提升所有能力值的战技。\n在立誓的那一瞬间，也会提升强韧度。"
+        },
+        "jpnjp": {
+            "name": "復讐の誓い",
+            "caption": "専用戦技「復讐の誓い」\n\n大剣に一族の復讐を誓い\n一定時間、すべての能力値を高める戦技\n誓いの瞬間は、強靭度も高まっている\n"
+        },
+        "engus": {
+            "name": "Oath of Vengeance",
+            "caption": "Unique Skill: Oath of Vengeance\n\nSwear an oath upon the greatsword to avenge the clan, temporarily raising all attributes for a certain duration. While the oath's effects are active, poise will also be increased."
+        },
+        "icon_id": "21000"
+    },
+    "1043": {
+        "zhocn": {
+            "name": "冰雷剑",
+            "caption": "专用战技：冰雷剑\n\n高举刀身召唤冰雷，再一斩而下的战技。\n缠绕刀身上的冰雷会暂时延续。"
+        },
+        "jpnjp": {
+            "name": "氷雷剣",
+            "caption": "専用戦技「氷雷剣」\n\n掲げた刀身に氷雷を呼び、斬り下ろす戦技\n刃に纏う氷雷は、しばらく継続する\n"
+        },
+        "engus": {
+            "name": "Ice Lightning Sword",
+            "caption": "Unique Skill: Ice Lightning Sword\n\nCall down a bolt of ice lightning into the blade and bring it down upon a foe.\nThe ice lightning effect will persist for a while."
+        },
+        "icon_id": "21000"
+    },
+    "1044": {
+        "zhocn": {
+            "name": "兽王爪",
+            "caption": "专用战技：兽王爪\n\n将大锤敲向地面，\n让五只兽爪大幅撕裂大地的战技。"
+        },
+        "jpnjp": {
+            "name": "獣王の爪",
+            "caption": "専用戦技「獣王の爪」\n\n大槌を地面に叩きつけ\n五本の獣爪で、大地を大きく引き裂く戦技\n"
+        },
+        "engus": {
+            "name": "Regal Beastclaw",
+            "caption": "Unique Skill: Regal Beastclaw\n\nSlam the hammer into the ground, rending the land asunder with the armament's five bestial claws."
+        },
+        "icon_id": "21000"
+    },
+    "1045": {
+        "zhocn": {
+            "name": "火焰舞",
+            "caption": "专用战技：火焰舞\n\n在红发鞭点燃巨人火焰，流水一般地\n使出连续大范围横扫攻击的战技。"
+        },
+        "jpnjp": {
+            "name": "炎の舞",
+            "caption": "専用戦技「炎の舞」\n\n赤髪の鞭に巨人の火を燃やし\n流れるように連続で、広範囲を薙ぎ払う戦技\n"
+        },
+        "engus": {
+            "name": "Flame Dance",
+            "caption": "Unique Skill: Flame Dance\n\nImbue the red braid with the Giants' Flame and lash out in a wide range with a series of agile swings."
+        },
+        "icon_id": "21000"
+    },
+    "1046": {
+        "zhocn": {
+            "name": "弹指",
+            "caption": "专用战技：弹指\n\n让手指膨胀变大，弯曲蓄满力量，\n再用指尖弹飞敌人的战技。"
+        },
+        "jpnjp": {
+            "name": "爪弾き",
+            "caption": "専用戦技「爪弾き」\n\n指を膨張させると共に、折り曲げて力をため\n爪先で敵を弾き飛ばす戦技\n"
+        },
+        "engus": {
+            "name": "Claw Flick",
+            "caption": "Unique Skill: Claw Flick\n\nCause the finger to swell, then flex to build up strength before giving enemies an almighty flick."
+        },
+        "icon_id": "21000"
+    },
+    "1047": {
+        "zhocn": {
+            "name": "星云",
+            "caption": "专用战技：星云\n\n对弃子的星星们灌入魔力，\n使出横扫攻击的同时，形成黑暗星云的战技。\n星云会在短时间内爆炸消失。"
+        },
+        "jpnjp": {
+            "name": "星雲",
+            "caption": "専用戦技「星雲」\n\n落とし子の星屑に魔力を込め\n薙ぎ払う攻撃と共に、暗黒の星雲を生じる戦技\n星雲は、一瞬の後、爆発して消える\n"
+        },
+        "engus": {
+            "name": "Nebula",
+            "caption": "Unique Skill: Nebula\n\nImbue the Naturalborn's stars with magic to perform a sweeping strike.\nThis attack leaves a dark cloud of stars in its wake that lingers briefly before exploding."
+        },
+        "icon_id": "21000"
+    },
+    "1048": {
+        "zhocn": {
+            "name": "点燃灵火",
+            "caption": "专用战技：点燃灵火\n\n从钩状前端产生灵火的战技。\n发动后接着使出轻攻击，能释放爬行地面的灵火。\n使出重攻击能引爆灵火，形成大爆炸。"
+        },
+        "jpnjp": {
+            "name": "霊炎発火",
+            "caption": "専用戦技「霊炎発火」\n\n突き出した鉤棒の先に、霊炎を生じる戦技\n通常攻撃で、霊炎を地に這わせて放ち\n強攻撃で、それを大きく爆発させる\n"
+        },
+        "engus": {
+            "name": "Ghostflame Ignition",
+            "caption": "Unique Skill: Ghostflame Ignition\n\nThrust out the barbed rod and set its tip alight with ghostflame.\nFollow up with a normal attack to set the ground ablaze with ghostflame, or a strong attack to trigger a massive explosion."
+        },
+        "icon_id": "21000"
+    },
+    "1049": {
+        "zhocn": {
+            "name": "古雷电枪",
+            "caption": "专用战技：古雷电枪\n\n将古龙的武器──红色雷电缠绕在武器上，\n再将雷电化成枪，投掷而出的战技。\n借由蓄力发动，能提升威力。"
+        },
+        "jpnjp": {
+            "name": "古雷の槍",
+            "caption": "専用戦技「古雷の槍」\n\n古竜の武器たる赤い雷を武器に纏い\nそれを、槍となして投擲する戦技\nタメ使用で強化される\n"
+        },
+        "engus": {
+            "name": "Ancient Lightning Spear",
+            "caption": "Unique Skill: Ancient Lightning Spear\n\nImbue the armament with the ancient dragons' red lightning, then throw it as a spear.\nCan be charged to increase its power."
+        },
+        "icon_id": "21000"
+    },
+    "1050": {
+        "zhocn": {
+            "name": "癫火突击",
+            "caption": "专用战技：癫火突击\n\n将癫火缠绕矛之后向前跳，\n向下刺出的同时，引发剧烈爆炸的战技。\n施放者也会累积发狂量表。"
+        },
+        "jpnjp": {
+            "name": "狂い火突き",
+            "caption": "専用戦技「狂い火突き」\n\n狂い火を槍に纏い、前方に跳躍し\n突き下ろしと共に、激しい爆発を生じる戦技\nこの戦技は、使用者にも発狂を蓄積する\n"
+        },
+        "engus": {
+            "name": "Frenzyflame Thrust",
+            "caption": "Unique Skill: Frenzyflame Thrust\n\nImbue the spear with the flame of frenzy and leap forwards, plunging it into the ground and setting off a maddening explosion.\nThe skill inflicts both the enemy and the user with madness."
+        },
+        "icon_id": "21000"
+    },
+    "1051": {
+        "zhocn": {
+            "name": "米凯拉的光环",
+            "caption": "专用战技：米凯拉的光环\n\n形成米凯拉的闪耀光环，再向前释放的战技。\n可以连续施放。"
+        },
+        "jpnjp": {
+            "name": "ミケラの光輪",
+            "caption": "専用戦技「ミケラの光輪」\n\nミケラの輝く光輪を生じ、前方に放つ戦技\n連続で放つことができる\n"
+        },
+        "engus": {
+            "name": "Miquella's Ring of Light",
+            "caption": "Unique Skill: Miquella's Ring of Light\n\nSummon Miquella's shining halo and fire it forwards.\nCan be fired in rapid succession."
+        },
+        "icon_id": "21000"
+    },
+    "1052": {
+        "zhocn": {
+            "name": "黄金剑技",
+            "caption": "专用战技：黄金剑技\n\n将两把剑交叉，附加圣属性攻击力的战技。\n在战技有效时间内，\n重攻击会变成双剑连击。"
+        },
+        "jpnjp": {
+            "name": "黄金の剣技",
+            "caption": "専用戦技「黄金の剣技」\n\n二つの剣を交差させ、聖属性の攻撃力を付与する戦技\n効果中、強攻撃が二刀の連撃となる\n"
+        },
+        "engus": {
+            "name": "Golden Tempering",
+            "caption": "Unique Skill: Golden Tempering\n\nCross the two swords to grant their attacks holy essence.\nWhile in effect, strong attack performs a dual-wielding combo attack."
+        },
+        "icon_id": "21000"
+    },
+    "1053": {
+        "zhocn": {
+            "name": "哀悼墓碑",
+            "caption": "专用战技：哀悼墓碑\n\n高举墓碑，包含周围我方人物\n附加圣律力量的战技。\n对死诞者的哀悼效果特别卓越。"
+        },
+        "jpnjp": {
+            "name": "弔いの墓標",
+            "caption": "専用戦技「弔いの墓標」\n\n墓標を掲げ、周囲の味方を含め\n聖律の力を付与する戦技\n死に生きる者たちを良く弔う\n"
+        },
+        "engus": {
+            "name": "Last Rites",
+            "caption": "Unique Skill: Last Rites\n\nRaise the epitaph to grant the effect of Sacred Order to yourself and allies in the vicinity.\nParticularly effective at laying to rest Those Who Live in Death."
+        },
+        "icon_id": "21000"
+    },
+    "1054": {
+        "zhocn": {
+            "name": "不可挡之刃",
+            "caption": "专用战技：不可挡之刃\n\n让秘文剑刃蕴藏光芒，\n增加剑身长度，使出大范围斩击的战技。\n此攻击无法用防御挡下。"
+        },
+        "jpnjp": {
+            "name": "防ぎ得ぬ刃",
+            "caption": "専用戦技「防ぎ得ぬ刃」\n\n秘文字の刃に光を宿し、その長さを増し\n一気に広範囲を斬り払う戦技\nこの攻撃をガードすることはできない\n"
+        },
+        "engus": {
+            "name": "Unblockable Blade",
+            "caption": "Unique Skill: Unblockable Blade\n\nImbue the cipher blade with light, extending its length, then strike with a sudden sweeping attack.\nThis attack cannot be blocked."
+        },
+        "icon_id": "21000"
+    },
+    "1055": {
+        "zhocn": {
+            "name": "欧赫剑舞",
+            "caption": "专用战技：欧赫剑舞\n\n把气灌入剑中，旋转之后朝前方释放的战技。\n整把剑会剧烈旋转，给予连续损伤。\n借由蓄力发动，能提升飞翔距离与旋转时间。"
+        },
+        "jpnjp": {
+            "name": "エオヒドの剣舞",
+            "caption": "専用戦技「エオヒドの剣舞」\n\n剣に気を宿し、捻りを加え前方に放つ戦技\nその剣は激しく回転し、連続でダメージを与える\nタメ使用で飛距離を増し、回転の持続時間も増す\n"
+        },
+        "engus": {
+            "name": "Eochaid's Dancing Blade",
+            "caption": "Unique Skill: Eochaid's Dancing Blade\n\nInfuse the sword with energy, then fling it forwards in a corkscrew attack. The sword continuously deals damage while violently spinning.\nCharge the attack to increase reach and duration of the spin."
+        },
+        "icon_id": "21000"
+    },
+    "1167": {
+        "zhocn": {
+            "name": "尸蜡斩击",
+            "caption": "专用战技：尸蜡斩击\n\n古英雄们的失传战技。\n高举剑身，解放尸蜡的力量，\n将力量化为刀刃，朝前方释放。"
+        },
+        "jpnjp": {
+            "name": "死蝋斬り",
+            "caption": "専用戦技「死蝋斬り」\n\n古い英雄たちの失われた戦技\n高く掲げた剣身に、死蝋の力を開放し\nそれを刃として前方に放つ\n"
+        },
+        "engus": {
+            "name": "Corpse Wax Cutter",
+            "caption": "Unique Skill: Corpse Wax Cutter\n\nLost skill of ancient heroes.\nLift the sword up high to release the power of corpse wax and launch it forwards as a blade-like projectile.\n"
+        },
+        "icon_id": "21000"
+    },
+    "1168": {
+        "zhocn": {
+            "name": "萨米尔冰风暴",
+            "caption": "专用战技：萨米尔冰风暴\n\n将弯刀刺入地面，向下使力，\n在周围形成寒气风暴的战技。"
+        },
+        "jpnjp": {
+            "name": "ザミェルの氷嵐",
+            "caption": "専用戦技「ザミェルの氷嵐」\n\n湾刀を地に刺し、力を込め\n周囲に冷気の嵐を生じる戦技\n"
+        },
+        "engus": {
+            "name": "Zamor Ice Storm",
+            "caption": "Unique Skill: Zamor Ice Storm\n\nPlunge the curved sword into the ground, building power before unleashing a freezing storm that batters the surroundings."
+        },
+        "icon_id": "21000"
+    },
+    "1169": {
+        "zhocn": {
+            "name": "拉塔恩的骤雨",
+            "caption": "专用战技：拉塔恩的骤雨\n\n压低身形拉弓的战技。\n摆出架式后，朝天空一口气射出大量的箭，\n箭会如骤雨一般，从敌人上方倾注而下。"
+        },
+        "jpnjp": {
+            "name": "ラダーンの驟雨",
+            "caption": "専用戦技「ラダーンの驟雨」\n\n低い姿勢で弓を構える戦技\n構えながら、多数の矢を一気に空に射る\nそれは、驟雨のごとく敵に降り注ぐ\n"
+        },
+        "engus": {
+            "name": "Radahn's Rain",
+            "caption": "Unique Skill: Radahn's Rain\n\nArchery skill performed from a low stance.\nReady the bow and fire a sudden flurry of arrows up into the sky. The arrows will pour on foes like rain."
+        },
+        "icon_id": "21000"
+    },
+    "1170": {
+        "zhocn": {
+            "name": "女王黑焰",
+            "caption": "专用战技：女王黑焰\n\n在剑身点燃狩猎神祇的黑焰，\n使出斩击的战技。再次发动能使出追击。\n黑焰会在一定时间内，让血量持续减少。"
+        },
+        "jpnjp": {
+            "name": "女王の黒炎",
+            "caption": "専用戦技「女王の黒炎」\n\n剣身に神狩りの黒炎を燃やし、斬り払う戦技\n追加入力で追撃に繋げられる\nまた黒炎は、しばらくの間ＨＰを削り続ける\n"
+        },
+        "engus": {
+            "name": "The Queen's Black Flame",
+            "caption": "Unique Skill: The Queen's Black Flame\n\nSet the blade ablaze with the god-slaying black flame before delivering a sweeping slash. Additional input allows for a follow-up attack. The black flames will continue to wear down HP for a while."
+        },
+        "icon_id": "21000"
+    },
+    "1171": {
+        "zhocn": {
+            "name": "王朝剑技",
+            "caption": "专用战技：王朝剑技\n\n优雅地闪避攻击，与敌人拉开距离的战技。\n发动后接着使出重攻击，\n能一口气向前推进，突刺攻击。\n再次使出重攻击，能横扫攻击。"
+        },
+        "jpnjp": {
+            "name": "王朝剣技",
+            "caption": "専用戦技「王朝剣技」\n\n華麗に攻撃を回避し、敵と距離を取る戦技\n強攻撃で、一気に前進する突きに繋げられ\n更なる強攻撃は斬り払いとなる\n"
+        },
+        "engus": {
+            "name": "Dynast's Finesse",
+            "caption": "Unique Skill: Dynast's Finesse\n\nNimbly avoid an attack, securing some distance from foes. Follow up with strong attack to perform a sudden lunge, and press strong attack again to perform a sweeping slice."
+        },
+        "icon_id": "21000"
+    },
+    "1172": {
+        "zhocn": {
+            "name": "泼洒熔岩",
+            "caption": "专用战技：泼洒熔岩\n\n旋身砍向敌人的同时，\n朝周围喷洒熔岩的战技。\n再次发动能使出追击。"
+        },
+        "jpnjp": {
+            "name": "溶岩撒き",
+            "caption": "専用戦技「溶岩撒き」\n\n体を回転させて敵を斬りつけながら\n周囲に、溶岩を撒き散らす戦技\n追加入力で追撃に繋げられる\n"
+        },
+        "engus": {
+            "name": "Magma Shower",
+            "caption": "Unique Skill: Magma Shower\n\nSlash at foes in a twirling motion while scattering magma all around.\nAdditional input allows for a follow-up attack."
+        },
+        "icon_id": "21000"
+    },
+    "1173": {
+        "zhocn": {
+            "name": "星云",
+            "caption": "专用战技：星云\n\n对弃子的薄翼灌入魔力，\n在前方形成黑暗星云的战技。\n星云会在短时间内爆炸消失。"
+        },
+        "jpnjp": {
+            "name": "星雲",
+            "caption": "専用戦技「星雲」\n\n落とし子の薄羽に魔力を込め\n前方に、暗黒の星雲を生じる戦技\n星雲は、一瞬の後、爆発して消える\n"
+        },
+        "engus": {
+            "name": "Nebula",
+            "caption": "Unique Skill: Nebula\n\nImbue the Naturalborn's wings with magic to send forth a dark cloud of stars that lingers briefly before exploding."
+        },
+        "icon_id": "21000"
+    },
+    "1174": {
+        "zhocn": {
+            "name": "死亡闪焰",
+            "caption": "专用战技：死亡闪焰\n\n让失色的太阳蕴藏死王子火焰的战技。\n能够引发异常状态死亡。\n再次发动能使出下砍，引爆火焰。"
+        },
+        "jpnjp": {
+            "name": "死のフレア",
+            "caption": "専用戦技「死のフレア」\n\n色を失くした太陽に、死王子の炎を宿す戦技\nそれは、死の状態異常効果を持つ\n追加入力で斬り下ろし、炎を爆発させる\n"
+        },
+        "engus": {
+            "name": "Death Flare",
+            "caption": "Unique Skill: Death Flare\n\nSet the lusterless sun ablaze with the Prince of Death's flames, inflicting the death ailment upon foes.\nFollow up with an additional input to bring down the armament, triggering an explosion."
+        },
+        "icon_id": "21000"
+    },
+    "1175": {
+        "zhocn": {
+            "name": "猎犬剑技",
+            "caption": "专用战技：猎犬剑技\n\n用长牙大幅上砍的同时，\n旋身与敌人拉开距离的战技。\n发动后接着使出重攻击，\n能踩出“猎犬步法”向前追击。"
+        },
+        "jpnjp": {
+            "name": "猟犬の剣技",
+            "caption": "専用戦技「猟犬の剣技」\n\n長牙を大きく斬り上げながら\n回転して敵との距離を取る戦技\n強攻撃で、猟犬のステップからの追撃を行う\n"
+        },
+        "engus": {
+            "name": "Bloodhound's Finesse",
+            "caption": "Unique Skill: Bloodhound's Finesse\n\nSlash upwards with the Bloodhound's Fang, using the momentum of the strike to perform a backwards somersault and gain some distance from foes. Follow up with a strong attack to perform the Bloodhound's Step attack."
+        },
+        "icon_id": "21000"
+    },
+    "1176": {
+        "zhocn": {
+            "name": "熔岩断首",
+            "caption": "专用战技：熔岩断首\n\n横摆鳞剑、剑锋下转往前跳，\n向下敲击的同时，引爆熔岩的战技。\n再次发动能使出拉近追击。"
+        },
+        "jpnjp": {
+            "name": "溶岩ギロチン",
+            "caption": "専用戦技「溶岩ギロチン」\n\n鱗剣を咥えるように持ち、前方に跳躍して\n叩き付けと共に、溶岩の爆発を生じる戦技\n追加入力で、引き斬りの追撃を行う\n"
+        },
+        "engus": {
+            "name": "Magma Guillotine",
+            "caption": "Unique Skill: Magma Guillotine\n\nGrab the scalesword with both hands, as a wyrm would hold it in its mouth, and leap forwards, smashing it into the ground and triggering a blast of magma. Follow up with an additional input to perform a chopping attack."
+        },
+        "icon_id": "21000"
+    },
+    "1177": {
+        "zhocn": {
+            "name": "尸横遍野",
+            "caption": "战技：尸横遍野\n\n将诅咒之血化为刀刃，\n形成交叉连击的战技。\n再次发动能使出更多连击。"
+        },
+        "jpnjp": {
+            "name": "死屍累々",
+            "caption": "専用戦技「死屍累々」\n\n呪われた血を刃となし\n交差する連撃を繰り出す戦技\n追加入力で、更なる連撃に繋がる\n"
+        },
+        "engus": {
+            "name": "Corpse Piler",
+            "caption": "Unique Skill: Corpse Piler\n\nForms a blade of cursed blood for repeated, interweaving successive attacks. Follow up with an additional input for further successive attacks. "
+        },
+        "icon_id": "21000"
+    },
+    "1178": {
+        "zhocn": {
+            "name": "隙间月影",
+            "caption": "专用战技：隙间月影\n\n收刀入腰间刀鞘，\n摆出架式后静止不动的战技。\n发动后接着使出轻攻击或重攻击，\n能在高速斩击之余，也释放光波。"
+        },
+        "jpnjp": {
+            "name": "束の間の月影",
+            "caption": "専用戦技「束の間の月影」\n\n刀身を鞘に収め、腰だめに静かに構える戦技\n通常攻撃および強攻撃で、高速の斬撃に繋げ\nそれぞれ光波を放つ\n"
+        },
+        "engus": {
+            "name": "Transient Moonlight",
+            "caption": "Unique Skill: Transient Moonlight\n\nSheathe blade, holding it at the hip in a composed stance.\nFollow up with either a normal or a strong attack to draw the blade at great speed for an instant slash attack. Both attacks fire off a wave of light."
+        },
+        "icon_id": "21000"
+    },
+    "1179": {
+        "zhocn": {
+            "name": "血刃乱舞",
+            "caption": "专用战技：血刃乱舞\n\n跳起之后，犹如旋风般使出连击的战技。\n再次发动能在追击之后，与敌人拉开距离。"
+        },
+        "jpnjp": {
+            "name": "血刃乱舞",
+            "caption": "専用戦技「血刃乱舞」\n\n跳躍から、旋風のごとき連撃を繰り出す戦技\n追加入力で、追撃の後に引いて距離を取る\n"
+        },
+        "engus": {
+            "name": "Bloodblade Dance",
+            "caption": "Unique Skill: Bloodblade Dance\n\nLeap at foe to perform a flurry of tornado-like attacks.\nFollow up with an additional input to perform an attack that ends in an evasive maneuver."
+        },
+        "icon_id": "21000"
+    },
+    "1181": {
+        "zhocn": {
+            "name": "米凯拉的奥秘剑",
+            "caption": "战技：米凯拉的奥秘剑\n\n让米凯拉的庇佑蕴藏剑身之上，\n对上死诞者能提升攻击力的战技。"
+        },
+        "jpnjp": {
+            "name": "ミケラの秘剣",
+            "caption": "戦技「ミケラの秘剣」\n\nミケラの加護を刀身に宿し\n死に生きる者たちに対する攻撃力を高める戦技\n"
+        },
+        "engus": {
+            "name": "",
+            "caption": ""
+        },
+        "icon_id": "21000"
+    },
+    "1182": {
+        "zhocn": {
+            "name": "百智的世界",
+            "caption": "专用战技：百智的世界\n\n高举权杖，在周围展开百智领域的战技。\n包含自身与领域内的人物\n降低魔力、圣属性减伤率。"
+        },
+        "jpnjp": {
+            "name": "百智の世界",
+            "caption": "専用戦技「百智の世界」\n\n王笏を掲げ、周囲に百智の領域を展開する戦技\n自らを含む、領域内のすべての者について\n魔力および聖カット率が低下する\n"
+        },
+        "engus": {
+            "name": "Knowledge Above All",
+            "caption": "Unique Skill: Knowledge Above All\n\nRaise the scepter to manifest the realm of the All-Knowing. Enemy magic and holy damage negation will be reduced for all within the area, including the caster."
+        },
+        "icon_id": "21000"
+    },
+    "1183": {
+        "zhocn": {
+            "name": "吞世",
+            "caption": "专用战技：吞世\n\n将灌入魔力的权杖伫立地面，\n从周围所有敌人身上夺取血量的战技。"
+        },
+        "jpnjp": {
+            "name": "世界喰らい",
+            "caption": "専用戦技「世界喰らい」\n\n魔力を込めた王笏を地に据え\n周囲すべての敵から、ＨＰを奪う戦技\n"
+        },
+        "engus": {
+            "name": "Devourer of Worlds",
+            "caption": "Unique Skill: Devourer of Worlds\n\nCharge the scepter with magic and strike it against the ground to steal the HP of all nearby enemies."
+        },
+        "icon_id": "21000"
+    },
+    "1184": {
+        "zhocn": {
+            "name": "家族怨魂",
+            "caption": "专用战技：家族怨魂\n\n一边轻晃红铜制的头颅，\n一边召唤穷追不舍的怨魂群的战技。\n妻与子的苦痛是怨魂作祟的源头。"
+        },
+        "jpnjp": {
+            "name": "家族の怨霊",
+            "caption": "専用戦技「家族の怨霊」\n\n赤銅の首をゆっくりと揺らしながら\n追いすがる怨霊たちを呼ぶ戦技\n妻子の苦悶が、祟り招くのだ\n"
+        },
+        "engus": {
+            "name": "Familial Rancor",
+            "caption": "Unique Skill: Familial Rancor\n\nGently rattle the copper heads to summon vengeful spirits that chase down foes.\nThe anguish of a spouse and children invites accursed wrath."
+        },
+        "icon_id": "21000"
+    },
+    "1185": {
+        "zhocn": {
+            "name": "罗泽司的唤声",
+            "caption": "专用战技：罗泽司的唤声\n\n高举斧，召唤迷途死者们的战技。\n三位死者会在远方现身，\n配合施放者一起攻击后，消失踪影。"
+        },
+        "jpnjp": {
+            "name": "ローゼスの呼び声",
+            "caption": "専用戦技「ローゼスの呼び声」\n\n斧を掲げ、死に迷う者たちを呼び出す戦技\n三体が、離れた場所に呼び出され\n召喚者に合わせて攻撃した後、消えてしまう\n"
+        },
+        "engus": {
+            "name": "Rosus's Summons",
+            "caption": "Unique Skill: Rosus's Summons\n\nRaise the axe aloft to summon those lost in death.\nThree skeletons will appear at a distance and attack in tandem before vanishing."
+        },
+        "icon_id": "21000"
+    },
+    "1186": {
+        "zhocn": {
+            "name": "雷电风暴",
+            "caption": "专用战技：雷电风暴\n\n让羽翼斧刃缠绕雷电，\n在周围形成雷电风暴的战技。\n再次发动，能使出最多两次的旋身追击。\n缠绕斧刃上的雷电会暂时延续。"
+        },
+        "jpnjp": {
+            "name": "雷嵐",
+            "caption": "専用戦技「雷嵐」\n\n翼の刃に雷を纏い、周囲に雷嵐を発生させる戦技\n追加入力で、二度まで、回転する追撃に繋がる\nまた、刃の纏った雷はしばらく継続する\n"
+        },
+        "engus": {
+            "name": "Thunderstorm",
+            "caption": "Unique Skill: Thunderstorm\n\nImbue the armament's wing-blade with lightning and swing it around to create a tempestuous lightning storm. Follow up with an additional input to perform up to two spinning attacks.\nThe lightning will stay on the blade for a while."
+        },
+        "icon_id": "21000"
+    },
+    "1187": {
+        "zhocn": {
+            "name": "圣矛障壁",
+            "caption": "专用战技：圣矛障壁\n\n释放蕴藏的祷告力量，\n在前方展开黄金矛阵的战技。"
+        },
+        "jpnjp": {
+            "name": "聖槍の壁",
+            "caption": "専用戦技「聖槍の壁」\n\n秘められた祈祷の力を解放し\n前面に、黄金の槍衾を展開する戦技\n"
+        },
+        "engus": {
+            "name": "Sacred Phalanx",
+            "caption": "Unique Skill: Sacred Phalanx\n\nRelease the power of a hidden incantation to erect a palisade of golden spears frontwards."
+        },
+        "icon_id": "21000"
+    },
+    "1188": {
+        "zhocn": {
+            "name": "狩猎大蛇",
+            "caption": "专用战技：狩猎大蛇\n\n能全力突刺，再次发动后\n会向上突刺攻击的战技。\n对上大蛇时会产生长形光刃，\n展现出真正的力量。"
+        },
+        "jpnjp": {
+            "name": "大蛇狩り",
+            "caption": "専用戦技「大蛇狩り」\n\n全力で突き、追加入力で突き上げる戦技\n大蛇と対した時、長き光の刃を生じ\n真の力を発揮する\n"
+        },
+        "engus": {
+            "name": "Great-Serpent Hunt",
+            "caption": "Unique Skill: Great-Serpent Hunt\n\nPerform a powerful forward lunge and follow up with an upward thrust via additional input. When fighting a great serpent, a long blade of light will appear, revealing the armament's true power."
+        },
+        "icon_id": "21000"
+    },
+    "1189": {
+        "zhocn": {
+            "name": "天使羽翼",
+            "caption": "专用战技：天使羽翼\n\n跳起的同时，让羽翼镰刃蕴藏白光，\n再顺势斩下的战技。\n白色羽翼能妨碍圣杯瓶的恢复效用。"
+        },
+        "jpnjp": {
+            "name": "天使の翼",
+            "caption": "専用戦技「天使の翼」\n\n跳躍と共に、翼の刃に白い光を宿し\nそのまま斬りつける戦技\n白き翼は、聖杯瓶による回復を阻害する\n"
+        },
+        "engus": {
+            "name": "Angel's Wings",
+            "caption": "Unique Skill: Angel's Wings\n\nJump and imbue the wing-blade of the armament with light, then deliver a slashing attack on the enemy.\nThe white wings impede recovery actions using a flask of tears."
+        },
+        "icon_id": "21000"
+    },
+    "1190": {
+        "zhocn": {
+            "name": "风暴踢击",
+            "caption": "专用战技：风暴踢击\n\n将义足的刀刃刺入地面，形成风暴的战技。\n发动后接着使出重攻击，\n能让刀刃缠绕雷电，再跳跃攻击。"
+        },
+        "jpnjp": {
+            "name": "嵐蹴撃",
+            "caption": "専用戦技「嵐蹴撃」\n\n義足の刃を地に突き立て、嵐を生じる戦技\n強攻撃で、その刃に雷を纏った\n跳躍攻撃に繋げられる\n"
+        },
+        "engus": {
+            "name": "Storm Kick",
+            "caption": "Unique Skill: Storm Kick\n\nThrust the prosthetic leg blade into the ground, creating a storm.\nFollow up with a strong attack to perform a lightning-infused jumping attack."
+        },
+        "icon_id": "21000"
+    },
+    "1191": {
+        "zhocn": {
+            "name": "不可挡之刃",
+            "caption": "专用战技：不可挡之刃\n\n让秘文剑刃蕴藏光芒，\n再一口气推进，贯穿敌人的战技。\n此攻击无法用防御挡下。"
+        },
+        "jpnjp": {
+            "name": "防ぎ得ぬ刃",
+            "caption": "専用戦技「防ぎ得ぬ刃」\n\n秘文字の刃に光を宿し\n一気に前進して、刺し貫く戦技\nこの攻撃をガードすることはできない\n"
+        },
+        "engus": {
+            "name": "Unblockable Blade",
+            "caption": "Unique Skill: Unblockable Blade\n\nImbue the cipher blade with light, then lunge forward with a sudden piercing attack.\nThis attack cannot be blocked."
+        },
+        "icon_id": "21000"
+    },
+    "1192": {
+        "zhocn": {
+            "name": "锡杖魔法",
+            "caption": "专用战技：锡杖魔法\n\n将辉石灌入魔力，触发古老魔法的战技。\n周围会出现自动飞向敌人的浮空魔法球。"
+        },
+        "jpnjp": {
+            "name": "錫杖の魔術",
+            "caption": "専用戦技「錫杖の魔術」\n\n輝石に魔力を込め、古い魔術を発動する戦技\n自律して対象に向かう魔法弾を、周囲に浮遊させる\n"
+        },
+        "engus": {
+            "name": "Sorcery of the Crozier",
+            "caption": "Unique Skill: Sorcery of the Crozier\n\nChannel magic into the glintstone to activate an ancient sorcery, producing floating magic projectiles that chase enemies automatically."
+        },
+        "icon_id": "21000"
+    },
+    "1193": {
+        "zhocn": {
+            "name": "黄金树坠落震击",
+            "caption": "专用战技：黄金树坠落震击\n\n轻盈向前跳，用臀部用力向下坠落，\n引发黄金冲击波的战技。\n在坠落震击的战技中，威力最为强大。"
+        },
+        "jpnjp": {
+            "name": "黄金樹の尻撃",
+            "caption": "専用戦技「黄金樹の尻撃」\n\nふわりと前方に跳躍し、重い尻を落とし\n黄金の衝撃波を発生させる戦技\n尻撃の中で、最も威力が高い\n"
+        },
+        "engus": {
+            "name": "Erdtree Slam",
+            "caption": "Unique Skill: Erdtree Slam\n\nJump up high into the air and crash down on the ground ahead. The resulting pratfall sends golden shockwaves in all directions.\nThis is the most powerful of all the Ground Slam skills."
+        },
+        "icon_id": "21000"
+    },
+    "1194": {
+        "zhocn": {
+            "name": "重力雷电",
+            "caption": "专用战技：重力雷电\n\n让星兽半颚蕴藏重力雷电，\n借此在远方召唤落雷的战技。\n可以连续施放。"
+        },
+        "jpnjp": {
+            "name": "重力雷",
+            "caption": "専用戦技「重力雷」\n\n星獣の片顎に、重力の雷を宿し\n離れた場所に、その落雷を呼ぶ戦技\n連続で放つことができる\n"
+        },
+        "engus": {
+            "name": "Gravity Bolt",
+            "caption": "Unique Skill: Gravity Bolt\n\nImbue the jaw of the fallingstar beast with gravitational lightning, sending a bolt crashing down a short distance away.\nCan be fired in rapid succession."
+        },
+        "icon_id": "21000"
+    },
+    "1195": {
+        "zhocn": {
+            "name": "催眠火焰",
+            "caption": "专用战技：催眠火焰\n\n吐气吹向烛台的火焰，用淡紫色的火焰\n朝前方大范围横扫的战技。\n具有引发异常状态催眠的效果。"
+        },
+        "jpnjp": {
+            "name": "眠りの炎",
+            "caption": "専用戦技「眠りの炎」\n\n燭台の火に息を吹き付け\n薄紫の火で、前方広範囲を焼き払う戦技\n睡眠の状態異常効果がある\n"
+        },
+        "engus": {
+            "name": "Fires of Slumber",
+            "caption": "Unique Skill: Fires of Slumber\n\nBlow into the candlestick's flame, creating a stream of hazy purple fire to cover the ground ahead.\nThe intoxicating flames inflict the sleep ailment upon foes."
+        },
+        "icon_id": "21000"
+    },
+    "1196": {
+        "zhocn": {
+            "name": "黄金式奉还",
+            "caption": "专用战技：黄金式奉还\n\n手持盾牌，释放守护祷告的战技。\n能消除魔法、祷告的效用，以黄金力量奉还。"
+        },
+        "jpnjp": {
+            "name": "黄金の返報",
+            "caption": "専用戦技「黄金の返報」\n\n盾を構え、守りの祈祷を解放する戦技\n魔術や祈祷を消し去り、黄金の力を返報する\n"
+        },
+        "engus": {
+            "name": "Golden Retaliation",
+            "caption": "Unique Skill: Golden Retaliation\n\nReady the shield to unleash its protective incantation.\nThis will dispel sorceries and incantations, retaliating with golden power."
+        },
+        "icon_id": "21000"
+    },
+    "1197": {
+        "zhocn": {
+            "name": "共鸣愤怒",
+            "caption": "专用战技：共鸣愤怒\n\n诱发水母的愤怒，\n让自己也感同身受的战技。\n一定时间内，提升攻击力。"
+        },
+        "jpnjp": {
+            "name": "伝染する怒り",
+            "caption": "専用戦技「伝染する怒り」\n\nクラゲの怒りを誘い\nそれを自らに伝染させる戦技\n一定時間、攻撃力が高まる\n"
+        },
+        "engus": {
+            "name": "Contagious Fury",
+            "caption": "Unique Skill: Contagious Fury\n\nIncite the jellyfish's wrath and allow its fury to flow through you.\nRaises attack power for a certain duration."
+        },
+        "icon_id": "21000"
+    },
+    "1198": {
+        "zhocn": {
+            "name": "奥陶琵斯的漩涡",
+            "caption": "专用战技：奥陶琵斯的漩涡\n\n用熔炉的漩涡力量激烈旋转整个剑身，\n再顺势敲向地面的战技。\n借由蓄力发动，能提升威力。"
+        },
+        "jpnjp": {
+            "name": "オルドビスの渦",
+            "caption": "専用戦技「オルドビスの渦」\n\n坩堝の渦の力で、剣全体を激しく回転させ\nそのまま、大地に叩きつける戦技\nタメ使用で強化される\n"
+        },
+        "engus": {
+            "name": "Ordovis's Vortex",
+            "caption": "Unique Skill: Ordovis's Vortex\n\nChannel the power of the crucible to spin the entire sword in midair, building momentum before slamming the blade down onto the ground.\nThis skill can be charged to increase its power."
+        },
+        "icon_id": "21000"
+    },
+    "1199": {
+        "zhocn": {
+            "name": "转啊转",
+            "caption": "专用战技：转啊转\n\n将辉石灌入魔力，让权杖浮在自身前方\n再高速旋转的战技。\n触碰到的人物会受到魔力连击。"
+        },
+        "jpnjp": {
+            "name": "回れ回れ",
+            "caption": "専用戦技「回れ回れ」\n\n輝石に魔力を込め、王笏を前方に浮かせ\nそれを高速に回転させる戦技\n触れる者に、魔力の連撃をなす\n"
+        },
+        "engus": {
+            "name": "Spinning Weapon",
+            "caption": "Unique Skill: Spinning Weapon\n\nChannel magic into the glintstone to suspend the scepter in mid air and cause it to spin violently.\nThose it touches will suffer successive magic attacks."
+        },
+        "icon_id": "21000"
+    },
+    "1": {
+        "zhocn": {
+            "name": "",
+            "caption": ""
+        },
+        "jpnjp": {
+            "name": "なし",
+            "caption": "-"
+        },
+        "engus": {
+            "name": "",
+            "caption": ""
+        },
+        "icon_id": "00000"
+    },
+    "104": {
+        "zhocn": {
+            "name": "",
+            "caption": ""
+        },
+        "jpnjp": {
+            "name": "回転薙ぎ",
+            "caption": "戦技「回転薙ぎ」\n\n長柄の武器で、多勢に対するための戦技\n大きく体を回転させて周囲の敵を薙ぎ払う\nまたその勢いを、強攻撃に繋げられる\n"
+        },
+        "engus": {
+            "name": "",
+            "caption": ""
+        },
+        "icon_id": "00000"
+    },
+    "407": {
+        "zhocn": {
+            "name": "",
+            "caption": ""
+        },
+        "jpnjp": {
+            "name": "不可視の矢",
+            "caption": "不可視の矢"
+        },
+        "engus": {
+            "name": "",
+            "caption": ""
+        },
+        "icon_id": "00000"
+    },
+    "1180": {
+        "zhocn": {
+            "name": "",
+            "caption": ""
+        },
+        "jpnjp": {
+            "name": "死蝶の舞",
+            "caption": "戦技「死蝶の舞」\n\n魔力で召喚した死の蝶が敵に襲いかかる戦技\n被弾した相手の生命力を奪い\n使用者のHPを回復させる\n"
+        },
+        "engus": {
+            "name": "",
+            "caption": ""
+        },
+        "icon_id": "21000"
+    }
+}
