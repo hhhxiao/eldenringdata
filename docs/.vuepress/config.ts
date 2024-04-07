@@ -28,7 +28,7 @@ export default defineConfig4CustomTheme<ThemeConfig>((ctx) => ({
             ["/110/goods","物品"],  
             ["/110/accerrory","护符"],  
             ["/110/protector","盔甲"],  
-            ["/110/gem","战技"],  
+            ["/110/art","战技"],  
             ["/110/weapon","武器"],  
           ]
         },

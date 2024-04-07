@@ -147,7 +147,7 @@ def export_accerrory(name):
 
 export_accerrory("accerrory")
 export_accerrory("art")
-export_accerrory("gem")
+# export_accerrory("gem")
 export_accerrory("goods")
 export_accerrory("protector")
 export_accerrory("weapon")
