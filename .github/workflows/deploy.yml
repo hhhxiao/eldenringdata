@@ -41,7 +41,7 @@ jobs:
         run: pnpm run docs:build
 
       - name: Deploy Docs
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: JamesIves/github-pages-deploy-action@v4.5.0
         with:
           # This is the branch where the docs are deployed to
           branch: gh-pages
