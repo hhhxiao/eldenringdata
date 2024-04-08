@@ -9,7 +9,7 @@ CSS = """
 <style>
 .pa {
   display: grid;
-  grid-template-columns: 18% 22% 22% 22%;
+  grid-template-columns: 13% 25% 28% 31%;
   justify-content: space-between;
   border: 1px solid #e6ddbd;
   width: 100%;
@@ -145,9 +145,43 @@ def export_accerrory(name):
         f.close()
 
 
+def build_talk_block(t):
+    res = []
+    for i in t:
+        res.append(i.replace(">", "&gt;").replace("<", "&lt;").replace("\n", "<br>"))
+    return "<br>".join(res)
+
+
+def export_talk_demo():
+    input = "db/talk.json"
+    output = os.path.join(OUTPUT_ROOT, "talk{}.vue".format(VERSION))
+    data = {}
+    with open(input, "r", encoding="utf8") as f:
+        data = json.load(f)
+    template = ""
+    for k, v in data.items():
+        html = '<div class="pa"><div class="i"></div>'
+        zhocn = '<div class="t">{}</div>'.format(build_talk_block(v["zhocn"]))
+        jpnjp = '<div class="t">{}</div>'.format(build_talk_block(v["jpnjp"]))
+        engus = '<div class="t">{}</div>'.format(build_talk_block(v["engus"]))
+        html += zhocn + jpnjp + engus + "</div>\n"
+        template += html
+
+    template = "<template><div>" + template + "</div></template>"
+    data = SCRIPT + "\n" + template + "\n" + CSS
+
+    with open(output, "w", encoding="utf8") as f:
+        f.write(data)
+        f.close()
+    md_file = os.path.join("docs", VERSION, "talk.md")
+    with open(md_file, "w", encoding="utf8") as f:
+        f.write("<ClientOnly><{}/></ClientOnly>".format("talk" + VERSION))
+        f.close()
+
+
 export_accerrory("accerrory")
 export_accerrory("art")
-# export_accerrory("gem")
 export_accerrory("goods")
 export_accerrory("protector")
 export_accerrory("weapon")
+export_talk_demo()

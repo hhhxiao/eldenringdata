@@ -578,7 +578,7 @@ export default {data() {return {};}}
 <style>
 .pa {
   display: grid;
-  grid-template-columns: 18% 22% 22% 22%;
+  grid-template-columns: 13% 25% 28% 31%;
   justify-content: space-between;
   border: 1px solid #e6ddbd;
   width: 100%;

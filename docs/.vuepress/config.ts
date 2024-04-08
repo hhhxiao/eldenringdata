@@ -32,13 +32,13 @@ export default defineConfig4CustomTheme<ThemeConfig>((ctx) => ({
             ["/110/weapon","武器"],  
           ]
         },
-      //   {
-      // title: "参数文本",
-      //    collapsable: false,
-      //     children:[
-      //       // ["/110/accerrory","武器"],
-      //     ]
-      //   }
+        {
+      title: "参数文本",
+         collapsable: false,
+          children:[
+            ["/110/talk","文本（待完善）"],
+          ]
+        }
       ],
     },
   },

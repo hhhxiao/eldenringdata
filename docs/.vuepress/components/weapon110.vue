@@ -3,7 +3,7 @@
 export default {data() {return {};}}
 </script>
 
-<template><div><div class="pa"><div class="i"><img class="im" src="~@img/00000.png"></div><div class="t"><p>徒手</p><br>没有装备任何武器，<br>会以徒手进行攻击。</div><div class="t"><p>素手</p><br>武器を何も持っていない状態<br>裸の拳で攻撃を行う<br></div><div class="t"><p>Unarmed</p><br>No armament equipped.<br>Bare fists will be used to attack.</div></div>
+<template><div><div class="pa"><div class="i"></div><div class="t"><p>徒手</p><br>没有装备任何武器，<br>会以徒手进行攻击。</div><div class="t"><p>素手</p><br>武器を何も持っていない状態<br>裸の拳で攻撃を行う<br></div><div class="t"><p>Unarmed</p><br>No armament equipped.<br>Bare fists will be used to attack.</div></div>
 <div class="pa"><div class="i"><img class="im" src="~@img/10000.png"></div><div class="t"><p>匕首</p><br>剑身短小又笔直的短剑。<br><br>攻击力与攻击距离较为弱势，<br>但因为重量轻，能使出快速连击。<br>使出致命一击的威力表现不错。</div><div class="t"><p>ダガー</p><br>剣身の真っ直ぐな短い剣<br><br>攻撃力とリーチに劣るが<br>軽量のため、素早い連撃が可能であり<br>致命の一撃の威力も高い<br></div><div class="t"><p>Dagger</p><br>A standard dagger with a straight blade.<br><br>Though modest in reach and capacity for harm, this weapon is light enough to jab in rapid succession and delivers devastating critical hits.</div></div>
 <div class="pa"><div class="i"><img class="im" src="~@img/10001.png"></div><div class="t"><p>黑刀</p><br>过去在黑刀阴谋之夜里，<br>杀害“黄金”葛德文的刺客们使用的短刀。<br><br>经由仪式，那蜿蜒的奇特刀身<br>寄宿着被窃走的死亡卢恩的力量。</div><div class="t"><p>黒き刃</p><br>かつて、黒き刃の陰謀の夜に<br>黄金のゴッドウィンを殺した刺客たちの短刀<br><br>その奇妙に捻じれた刃には、儀式により<br>盗まれた死のルーンの力が宿っている<br></div><div class="t"><p>Black Knife</p><br>Dagger once belonging to one of the assassins who murdered Godwyn the Golden on the Night of the Black Knives.<br><br>A ritual performed on the oddly misshapen blade imbued it with the power of the stolen Rune of Death.</div></div>
 <div class="pa"><div class="i"><img class="im" src="~@img/10002.png"></div><div class="t"><p>格挡匕首</p><br>具有独特弯曲护手的短剑。<br>格挡攻击用的武器。<br><br>看穿敌人的攻势，见招拆招──<br>专家只要有这把武器就能体现。</div><div class="t"><p>パリングダガー</p><br>独特の湾曲した鍔を持つ短剣<br>パリィを狙うための得物<br><br>敵の攻撃を見切り、後の先を体現する<br>達人には、この武器だけがあればよい<br></div><div class="t"><p>Parrying Dagger</p><br>A knife with curved handguards.<br>Designed to parry, turning foes' attacks against them.<br><br>For masters of combat who anticipate every enemy strike and counter accordingly, this weapon is all they need.</div></div>
@@ -450,7 +450,7 @@ export default {data() {return {};}}
 <style>
 .pa {
   display: grid;
-  grid-template-columns: 18% 22% 22% 22%;
+  grid-template-columns: 13% 25% 28% 31%;
   justify-content: space-between;
   border: 1px solid #e6ddbd;
   width: 100%;
